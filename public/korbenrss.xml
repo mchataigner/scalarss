@@ -1,0 +1,888 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+
+<channel>
+	<title>Korben</title>
+	
+	<link>http://korben.info</link>
+	<description>Upgrade your mind</description>
+	<lastBuildDate>Fri, 26 Apr 2013 16:26:53 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/KorbensBlog-UpgradeYourMind" /><feedburner:info uri="korbensblog-upgradeyourmind" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://superfeedr.com/hubbub" /><creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/2.0/</creativeCommons:license><image><link>http://creativecommons.org/licenses/by-nc-nd/2.0/</link><url>http://creativecommons.org/images/public/somerights20.gif</url><title>Some Rights Reserved</title></image><feedburner:feedFlare href="http://add.my.yahoo.com/rss?url=http%3A%2F%2Ffeeds.feedburner.com%2FKorbensBlog-UpgradeYourMind" src="http://us.i1.yimg.com/us.yimg.com/i/us/my/addtomyyahoo4.gif">Subscribe with My Yahoo!</feedburner:feedFlare><feedburner:feedFlare href="http://www.newsgator.com/ngs/subscriber/subext.aspx?url=http%3A%2F%2Ffeeds.feedburner.com%2FKorbensBlog-UpgradeYourMind" src="http://www.newsgator.com/images/ngsub1.gif">Subscribe with NewsGator</feedburner:feedFlare><feedburner:feedFlare href="http://feeds.my.aol.com/add.jsp?url=http%3A%2F%2Ffeeds.feedburner.com%2FKorbensBlog-UpgradeYourMind" src="http://o.aolcdn.com/favorites.my.aol.com/webmaster/ffclient/webroot/locale/en-US/images/myAOLButtonSmall.gif">Subscribe with My AOL</feedburner:feedFlare><feedburner:feedFlare href="http://www.bloglines.com/sub/http://feeds.feedburner.com/KorbensBlog-UpgradeYourMind" src="http://www.bloglines.com/images/sub_modern11.gif">Subscribe with Bloglines</feedburner:feedFlare><feedburner:feedFlare href="http://www.netvibes.com/subscribe.php?url=http%3A%2F%2Ffeeds.feedburner.com%2FKorbensBlog-UpgradeYourMind" src="http://www.netvibes.com/img/add2netvibes.gif">Subscribe with Netvibes</feedburner:feedFlare><feedburner:feedFlare href="http://fusion.google.com/add?feedurl=http%3A%2F%2Ffeeds.feedburner.com%2FKorbensBlog-UpgradeYourMind" src="http://buttons.googlesyndication.com/fusion/add.gif">Subscribe with Google</feedburner:feedFlare><feedburner:feedFlare href="http://www.pageflakes.com/subscribe.aspx?url=http%3A%2F%2Ffeeds.feedburner.com%2FKorbensBlog-UpgradeYourMind" src="http://www.pageflakes.com/ImageFile.ashx?instanceId=Static_4&amp;fileName=ATP_blu_91x17.gif">Subscribe with Pageflakes</feedburner:feedFlare><feedburner:feedFlare href="http://www.plusmo.com/add?url=http%3A%2F%2Ffeeds.feedburner.com%2FKorbensBlog-UpgradeYourMind" src="http://plusmo.com/res/graphics/fbplusmo.gif">Subscribe with Plusmo</feedburner:feedFlare><feedburner:feedFlare href="http://www.thefreedictionary.com/_/hp/AddRSS.aspx?http%3A%2F%2Ffeeds.feedburner.com%2FKorbensBlog-UpgradeYourMind" src="http://img.tfd.com/hp/addToTheFreeDictionary.gif">Subscribe with The Free Dictionary</feedburner:feedFlare><feedburner:feedFlare href="http://www.bitty.com/manual/?contenttype=rssfeed&amp;contentvalue=http%3A%2F%2Ffeeds.feedburner.com%2FKorbensBlog-UpgradeYourMind" src="http://www.bitty.com/img/bittychicklet_91x17.gif">Subscribe with Bitty Browser</feedburner:feedFlare><feedburner:feedFlare href="http://www.live.com/?add=http%3A%2F%2Ffeeds.feedburner.com%2FKorbensBlog-UpgradeYourMind" src="http://tkfiles.storage.msn.com/x1piYkpqHC_35nIp1gLE68-wvzLZO8iXl_JMledmJQXP-XTBOLfmQv4zhj4MhcWEJh_GtoBIiAl1Mjh-ndp9k47If7hTaFno0mxW9_i3p_5qQw">Subscribe with Live.com</feedburner:feedFlare><feedburner:feedFlare href="http://mix.excite.eu/add?feedurl=http%3A%2F%2Ffeeds.feedburner.com%2FKorbensBlog-UpgradeYourMind" src="http://image.excite.co.uk/mix/addtomix.gif">Subscribe with Excite MIX</feedburner:feedFlare><feedburner:feedFlare href="http://www.webwag.com/wwgthis.php?url=http%3A%2F%2Ffeeds.feedburner.com%2FKorbensBlog-UpgradeYourMind" src="http://www.webwag.com/images/wwgthis.gif">Subscribe with Webwag</feedburner:feedFlare><feedburner:feedFlare href="http://www.podcastready.com/oneclick_bookmark.php?url=http%3A%2F%2Ffeeds.feedburner.com%2FKorbensBlog-UpgradeYourMind" src="http://www.podcastready.com/images/podcastready_button.gif">Subscribe with Podcast Ready</feedburner:feedFlare><feedburner:feedFlare href="http://www.wikio.com/subscribe?url=http%3A%2F%2Ffeeds.feedburner.com%2FKorbensBlog-UpgradeYourMind" src="http://www.wikio.com/shared/img/add2wikio.gif">Subscribe with Wikio</feedburner:feedFlare><feedburner:feedFlare href="http://www.dailyrotation.com/index.php?feed=http%3A%2F%2Ffeeds.feedburner.com%2FKorbensBlog-UpgradeYourMind" src="http://www.dailyrotation.com/rss-dr2.gif">Subscribe with Daily Rotation</feedburner:feedFlare><item>
+		<title>Un gestionnaire de paquets pour Xcode</title>
+		<link>http://feedproxy.google.com/~r/KorbensBlog-UpgradeYourMind/~3/mPngFDymvI0/xcode-gestionnaire-paquets.html</link>
+		<comments>http://korben.info/xcode-gestionnaire-paquets.html#comments</comments>
+		<pubDate>Fri, 26 Apr 2013 15:01:13 +0000</pubDate>
+		<dc:creator>Korben</dc:creator>
+				<category><![CDATA[Mac OSX]]></category>
+
+		<guid isPermaLink="false">http://korben.info/?p=39644</guid>
+		<description><![CDATA[Si vous êtes sous Mac OSX et que vous utilisez XCode pour développer vos applications (pour iOS par exemple), vous vous êtes probablement rendu compte que trouver des plugins ou des templates sympas et les installer n'était pas simple. Mais oh oui youpi comme dirait Serge Karamazov, voici venue Alcatraz, une application open source qui [...]]]></description>
+				<content:encoded><![CDATA[<p>Si vous êtes sous Mac OSX et que vous utilisez XCode pour développer vos applications (pour iOS par exemple), vous vous êtes probablement rendu compte que trouver des plugins ou des templates sympas et les installer n'était pas simple.</p>
+<p>Mais oh oui youpi comme dirait Serge Karamazov, voici venue <a href="http://mneorr.github.io/Alcatraz/">Alcatraz</a>, une application open source qui fait office de gestionnaire de packages pour Xcode.</p>
+<p>Grâce à <strong>Alcatraz</strong>, vous pourrez trouver les plugins, les templates, les modèles de couleurs qui vous conviennent et l'installer en un click.</p>
+<p style="text-align: center;"><a href="http://korben.info/wp-content/uploads/2013/04/plugin.png"><img class="aligncenter size-full wp-image-39645" alt="plugin Un gestionnaire de paquets pour Xcode" src="http://korben.info/wp-content/uploads/2013/04/plugin.png" width="614" height="725" title="Un gestionnaire de paquets pour Xcode" /></a></p>
+<p>Pour fonctionner, Alcatraz a besoin de l'outil en ligne de commande d'Xcode que vous devrez installer via le menu Xcode -&gt; Preferences -&gt; Downloads.</p>
+<p>Ensuite, lancez un terminal puis entrez les commandes suivantes :</p>
+<blockquote><p>mkdir -p ~/Library/Application\ Support/Developer/Shared/Xcode/Plug-ins;</p>
+<p>curl -L http://goo.gl/xfmmt | tar xv -C ~/Library/Application\ Support/Developer/Shared/Xcode/Plug-ins -</p></blockquote>
+<p style="text-align: center;"><a href="http://korben.info/wp-content/uploads/2013/04/menu.png"><img class="aligncenter size-full wp-image-39646" alt="menu Un gestionnaire de paquets pour Xcode" src="http://korben.info/wp-content/uploads/2013/04/menu.png" width="500" height="281" title="Un gestionnaire de paquets pour Xcode" /></a></p>
+<p>Vous aurez alors accès à ce plugin dans XCode. Pour le désinstaller, rien de plus simple, il suffira d'aller supprimer le fichier "Alcatraz.xcplugin" qui se trouve dans le répertoire :</p>
+<blockquote><p>~/Library/Application\ Support/Developer/Shared/Xcode/Plug-ins/Alcatraz.xcplugin</p></blockquote>
+<p>Amusez-vous bien !</p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=mPngFDymvI0:UgbpuN6e-TQ:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=mPngFDymvI0:UgbpuN6e-TQ:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=mPngFDymvI0:UgbpuN6e-TQ:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=mPngFDymvI0:UgbpuN6e-TQ:GG6oivYVkFs"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=mPngFDymvI0:UgbpuN6e-TQ:GG6oivYVkFs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=mPngFDymvI0:UgbpuN6e-TQ:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=mPngFDymvI0:UgbpuN6e-TQ:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=mPngFDymvI0:UgbpuN6e-TQ:gIN9vFwOqvQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=mPngFDymvI0:UgbpuN6e-TQ:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=7Q72WNTAKBA" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/KorbensBlog-UpgradeYourMind/~4/mPngFDymvI0" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://korben.info/xcode-gestionnaire-paquets.html/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		<feedburner:origLink>http://korben.info/xcode-gestionnaire-paquets.html</feedburner:origLink></item>
+		<item>
+		<title>Réalisez un audit sécurité de votre système GNU/Linux facilement</title>
+		<link>http://feedproxy.google.com/~r/KorbensBlog-UpgradeYourMind/~3/OBIG1X_xZbU/faire-audit-linux.html</link>
+		<comments>http://korben.info/faire-audit-linux.html#comments</comments>
+		<pubDate>Fri, 26 Apr 2013 13:30:42 +0000</pubDate>
+		<dc:creator>Korben</dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Sécurité]]></category>
+
+		<guid isPermaLink="false">http://korben.info/?p=39633</guid>
+		<description><![CDATA[Développé par la même personne derrière le scanner de malware Rkhunter, Lynis est un outil qui va vous permettre de réaliser un audit simple de votre machine sous GNU/Linux. Pour installer Lynis (sous Ubuntu) : sudo apt-get install lynis Pour lancer le scan : sudo lynis -c Ensuite, l'analyse se fera sur les utilitaires systèmes, [...]]]></description>
+				<content:encoded><![CDATA[<p>Développé par la même personne derrière le scanner de malware <a href="http://www.rootkit.nl/projects/rootkit_hunter.html">Rkhunter</a>, <strong><a href="http://www.rootkit.nl/projects/lynis.html">Lynis</a></strong> est un outil qui va vous permettre de réaliser un audit simple de votre machine sous GNU/Linux.</p>
+<p>Pour installer Lynis (sous Ubuntu) :</p>
+<blockquote><p>sudo apt-get install lynis</p></blockquote>
+<p>Pour lancer le scan :</p>
+<blockquote><p>sudo lynis -c</p></blockquote>
+<p style="text-align: center;"><a href="http://korben.info/wp-content/uploads/2013/04/lynis1.png"><img class="aligncenter size-full wp-image-39634" alt="lynis1 Réalisez un audit sécurité de votre système GNU/Linux facilement" src="http://korben.info/wp-content/uploads/2013/04/lynis1.png" width="650" height="418" title="Réalisez un audit sécurité de votre système GNU/Linux facilement" /></a></p>
+<p>Ensuite, l'analyse se fera sur les utilitaires systèmes, le bootloader et les services, le kernel, la mémoire et les processus, tout ce qui est utilisateurs, groupes et authentification, les shells, le système de fichiers, le stockage, NFS, DNS, les ports et les packages, la config réseau, les imprimantes, les logiciels de messagerie, le firewall, le serveur web, la config SSH, SNMP, les bases de données, LDAP, PHP, Squid, les logs, les services non sécurisés, la crontab, les comptes, l'heure et la synchronisation temporelle, le chiffrement, la virtualisation, les frameworks de sécurité présents, les softs de vérification d'intégrité des fichiers, les scanners de malware, les utilitaires systèmes, les répertoires home...etc.</p>
+<p>Le scan se termine ensuite par une liste de suggestions plus ou moins longue de petites choses à améliorer pour rendre votre système plus sécurisé.</p>
+<p style="text-align: center;"><a href="http://korben.info/wp-content/uploads/2013/04/lynis21.png"><img class="aligncenter size-full wp-image-39636" alt="lynis21 Réalisez un audit sécurité de votre système GNU/Linux facilement" src="http://korben.info/wp-content/uploads/2013/04/lynis21.png" width="650" height="418" title="Réalisez un audit sécurité de votre système GNU/Linux facilement" /></a></p>
+<p>Pour info, le rapport complet, une fois achevé se trouve ici : <strong>/var/log/lynis.log</strong></p>
+<p>Par exemple, pour visualiser uniquement les choses qui urgent (Warning), il suffit de faire un petit grep :</p>
+<blockquote><p>sudo grep Warning /var/log/lynis.log</p></blockquote>
+<p>Et pour consulter uniquement les bons conseils de Lynis :</p>
+<blockquote><p>sudo grep Suggestion /var/log/lynis.log</p></blockquote>
+<p>De quoi, déjà, faire un bon petit tour d'horizon sur les faiblesses de votre système et ne rien laisser grand ouvert qu'un méchant hacker pourrait exploiter.</p>
+<p><a href="http://www.ubuntugeek.com/lynis-security-and-system-auditing-tool.html">Source</a></p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=OBIG1X_xZbU:KFhfSd-aDUU:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=OBIG1X_xZbU:KFhfSd-aDUU:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=OBIG1X_xZbU:KFhfSd-aDUU:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=OBIG1X_xZbU:KFhfSd-aDUU:GG6oivYVkFs"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=OBIG1X_xZbU:KFhfSd-aDUU:GG6oivYVkFs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=OBIG1X_xZbU:KFhfSd-aDUU:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=OBIG1X_xZbU:KFhfSd-aDUU:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=OBIG1X_xZbU:KFhfSd-aDUU:gIN9vFwOqvQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=OBIG1X_xZbU:KFhfSd-aDUU:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=7Q72WNTAKBA" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/KorbensBlog-UpgradeYourMind/~4/OBIG1X_xZbU" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://korben.info/faire-audit-linux.html/feed</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		<feedburner:origLink>http://korben.info/faire-audit-linux.html</feedburner:origLink></item>
+		<item>
+		<title>Comment ouvrir un fichier Word, Excel ou Powerpoint directement dans votre navigateur ?</title>
+		<link>http://feedproxy.google.com/~r/KorbensBlog-UpgradeYourMind/~3/uPeqiLehlFQ/ouvrir-word-excel-powerpoint-chrome.html</link>
+		<comments>http://korben.info/ouvrir-word-excel-powerpoint-chrome.html#comments</comments>
+		<pubDate>Fri, 26 Apr 2013 11:30:59 +0000</pubDate>
+		<dc:creator>Korben</dc:creator>
+				<category><![CDATA[Infos]]></category>
+		<category><![CDATA[Navigateur]]></category>
+
+		<guid isPermaLink="false">http://korben.info/?p=39628</guid>
+		<description><![CDATA[Histoire de faire encore un petit peu plus la nique à Microsoft et Office, Google vient de sortir Chrome Office Viewer, une extension pour son navigateur qui permet d'ouvrir directement dans Chrome, les fichiers doc, docx, xls, xlsx, ppt et .pptx. Plus besoin d'enregistrer le document sur le disque dur. Plus besoin de lancer Word, [...]]]></description>
+				<content:encoded><![CDATA[<p>Histoire de faire encore un petit peu plus la nique à Microsoft et Office, Google vient de sortir <a href="https://chrome.google.com/webstore/detail/chrome-office-viewer/gbkeegbaiigmenfmjfclcdgdpimamgkj/related?hl=en">Chrome Office Viewer</a>, une extension pour son navigateur qui permet d'<strong>ouvrir directement dans Chrome, les fichiers doc, docx, xls, xlsx, ppt et .pptx</strong>.</p>
+<p>Plus besoin d'enregistrer le document sur le disque dur. Plus besoin de lancer Word, Excel ou Powerpoint. Tout se fait très rapidement au sein même du navigateur en utilisant la même technologie déjà appliquée à la lecture des PDF, avec les mêmes petites options :</p>
+<p style="text-align: center;"><a href="http://korben.info/wp-content/uploads/2013/04/opendoc.jpg"><img class="aligncenter size-full wp-image-39629" alt="opendoc Comment ouvrir un fichier Word, Excel ou Powerpoint directement dans votre navigateur ?" src="http://korben.info/wp-content/uploads/2013/04/opendoc.jpg" width="289" height="101" title="Comment ouvrir un fichier Word, Excel ou Powerpoint directement dans votre navigateur ?" /></a></p>
+<p style="text-align: center;"><a href="http://korben.info/wp-content/uploads/2013/04/chromeofficeviewer.jpg"><img class="aligncenter size-full wp-image-39631" alt="chromeofficeviewer Comment ouvrir un fichier Word, Excel ou Powerpoint directement dans votre navigateur ?" src="http://korben.info/wp-content/uploads/2013/04/chromeofficeviewer.jpg" width="650" height="462" title="Comment ouvrir un fichier Word, Excel ou Powerpoint directement dans votre navigateur ?" /></a></p>
+<p>C'est super pratique, ça n'utilise pas Google Drive (Pas de copie dans le "cloud" pour le moment) et ça fait gagner pas mal de temps. Je vous recommande vivement de l'installer en attendant que ça soit mis en place nativement dans Chrome !</p>
+<p><a href="http://www.theregister.co.uk/2013/04/26/google_cloud_collaboration/">Source</a></p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=uPeqiLehlFQ:PzkpioxGsXo:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=uPeqiLehlFQ:PzkpioxGsXo:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=uPeqiLehlFQ:PzkpioxGsXo:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=uPeqiLehlFQ:PzkpioxGsXo:GG6oivYVkFs"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=uPeqiLehlFQ:PzkpioxGsXo:GG6oivYVkFs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=uPeqiLehlFQ:PzkpioxGsXo:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=uPeqiLehlFQ:PzkpioxGsXo:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=uPeqiLehlFQ:PzkpioxGsXo:gIN9vFwOqvQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=uPeqiLehlFQ:PzkpioxGsXo:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=7Q72WNTAKBA" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/KorbensBlog-UpgradeYourMind/~4/uPeqiLehlFQ" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://korben.info/ouvrir-word-excel-powerpoint-chrome.html/feed</wfw:commentRss>
+		<slash:comments>13</slash:comments>
+		<feedburner:origLink>http://korben.info/ouvrir-word-excel-powerpoint-chrome.html</feedburner:origLink></item>
+		<item>
+		<title>SRA – Un outil pour vos audits SSH / SFTP</title>
+		<link>http://feedproxy.google.com/~r/KorbensBlog-UpgradeYourMind/~3/g5F7daASF6U/sra-ssh-sftp-audit.html</link>
+		<comments>http://korben.info/sra-ssh-sftp-audit.html#comments</comments>
+		<pubDate>Fri, 26 Apr 2013 08:30:19 +0000</pubDate>
+		<dc:creator>Korben</dc:creator>
+				<category><![CDATA[Sécurité]]></category>
+
+		<guid isPermaLink="false">http://korben.info/?p=39624</guid>
+		<description><![CDATA[Si votre entreprise autorise les connexions SSH ou SFTP, il se peut que des clés utilisateurs non correctement gérées se baladent dans la nature. Pas de création, de rotation et de révocation centralisées et c'est vite le boxon. Pour remédier à cela et apporter un peu plus de sécurité dans ce monde de brute, la [...]]]></description>
+				<content:encoded><![CDATA[<p>Si votre entreprise autorise les connexions SSH ou SFTP, il se peut que des clés utilisateurs non correctement gérées se baladent dans la nature. Pas de création, de rotation et de révocation centralisées et c'est vite le boxon.</p>
+<p>Pour remédier à cela et apporter un peu plus de sécurité dans ce monde de brute, la société SSH Communications Security, à l'origine de ces mêmes protocoles, lancera en mai 2013 SRA (SSH Risk Assessor)</p>
+<p>Il s'agit d'un outil gratuit qui permettra d'établir un diagnostic clair des risques possibles dans les environnements SSH. Vulnérabilités connues, stats détaillées sur les clés déployées, ou conseils sur les bonnes pratiques. Les administrateurs et experts en sécurité sauront alors beaucoup plus rapidement quelles sont les faiblesses des environnements utilisant SSH.</p>
+<blockquote><p><strong>Risk Reporting:</strong></p>
+<ul>
+<li>Generate a report to identify:
+<ul>
+<li>Total amounts of keys and related users</li>
+<li>Host OS platforms and SSH versions</li>
+<li>Known and unknown trust-relationships</li>
+<li>Amount of root authorizations</li>
+<li>User keys without command restrictions</li>
+<li>User keys without source address or host</li>
+</ul>
+</li>
+<li>Scan environment for SSH user and host keys:
+<ul>
+<li>Duplicate/shared private keys</li>
+<li>Private keys without passphrase protection</li>
+<li>Key age, algorithms and lengths</li>
+<li>User keys in non-root owned directories and writable by non-root users.</li>
+</ul>
+</li>
+<li>Reachability analysis to determine potential damage due to a compromised private key</li>
+</ul>
+<p><strong>Compare findings with:</strong></p>
+<ul>
+<li>Current IAM tracking to identify undocumented and/or unauthorized keys</li>
+<li>SSH version and access policies</li>
+<li>Key cryptography policies</li>
+<li>Key rotation practices</li>
+</ul>
+<p><strong>Compliance Reporting:</strong></p>
+<ul>
+<li>SOX DS 5.8 Cryptographic key management for secure key storage and revocation</li>
+<li>HIPAA Information Access requirements for key protection, strength, age, access and audit</li>
+<li>NIST/FISMA section C.2.2 requirements for structured and documented process for key allocation, distribution and tracking. Key algorithm enforcement and tracking</li>
+<li>NERC CIP-007-4 R5 Account Management requirements</li>
+<li>PCI section 8.5.x access controls (SSH under consideration for PCI V3)</li>
+</ul>
+</blockquote>
+<p>Pour avoir plus d'infos et êtres informé de la sortie de SRA, <a href="http://www.ssh.com/index.php/products/ssh-risk-assessor.html">il suffit de vous inscrire ici</a>.</p>
+<p><a href="http://www.net-security.org/secworld.php?id=14811">Source</a></p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=g5F7daASF6U:74VVn2X2Rn0:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=g5F7daASF6U:74VVn2X2Rn0:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=g5F7daASF6U:74VVn2X2Rn0:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=g5F7daASF6U:74VVn2X2Rn0:GG6oivYVkFs"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=g5F7daASF6U:74VVn2X2Rn0:GG6oivYVkFs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=g5F7daASF6U:74VVn2X2Rn0:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=g5F7daASF6U:74VVn2X2Rn0:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=g5F7daASF6U:74VVn2X2Rn0:gIN9vFwOqvQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=g5F7daASF6U:74VVn2X2Rn0:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=7Q72WNTAKBA" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/KorbensBlog-UpgradeYourMind/~4/g5F7daASF6U" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://korben.info/sra-ssh-sftp-audit.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<feedburner:origLink>http://korben.info/sra-ssh-sftp-audit.html</feedburner:origLink></item>
+		<item>
+		<title>Comment récupérer de nombreux fichiers en provenance de nombreuses personnes sans se prendre la tête</title>
+		<link>http://feedproxy.google.com/~r/KorbensBlog-UpgradeYourMind/~3/wT2IAYUIURU/entouragebox.html</link>
+		<comments>http://korben.info/entouragebox.html#comments</comments>
+		<pubDate>Fri, 26 Apr 2013 07:30:51 +0000</pubDate>
+		<dc:creator>Korben</dc:creator>
+				<category><![CDATA[service web]]></category>
+
+		<guid isPermaLink="false">http://korben.info/?p=39613</guid>
+		<description><![CDATA[Si vous souhaitez récupérer des fichiers en provenance de nombreuses personnes, sans vous prendre la tête et sans vous lancer dans des explications techniques sur le protocole FTP ^^, il existe une solution. EntourageBox est un site qui se branche sur Dropbox, Google Drive ou Amazon S3 et qui vous permet de générer une URL [...]]]></description>
+				<content:encoded><![CDATA[<p>Si vous souhaitez récupérer des fichiers en provenance de nombreuses personnes, sans vous prendre la tête et sans vous lancer dans des explications techniques sur le protocole FTP ^^, il existe une solution.</p>
+<p><strong>EntourageBox</strong> est un site qui se branche sur Dropbox, Google Drive ou Amazon S3 et qui vous permet de générer une URL via laquelle vos amis pourront uploader leurs propres fichiers.</p>
+<p style="text-align: center;"><a href="http://korben.info/wp-content/uploads/2013/04/box.jpg"><img class="aligncenter size-full wp-image-39615" alt="box Comment récupérer de nombreux fichiers en provenance de nombreuses personnes sans se prendre la tête" src="http://korben.info/wp-content/uploads/2013/04/box.jpg" width="650" height="119" title="Comment récupérer de nombreux fichiers en provenance de nombreuses personnes sans se prendre la tête" /></a></p>
+<p>Je pense notamment à une séance de récupération de photos de mariage ou de beuverie entre pôte (Comment ? C'est la même chose ?). Pas besoin de partager un répertoire avec 1000 comptes Dropbox. Ici, une seule URL suffit et permettra même à ceux qui n'ont pas de compte de déposer leurs fichiers, qui arriveront ensuite directement chez vous.</p>
+<p style="text-align: center;"><a href="http://korben.info/wp-content/uploads/2013/04/entouragebbox.jpg"><img class="aligncenter size-full wp-image-39616" alt="entouragebbox Comment récupérer de nombreux fichiers en provenance de nombreuses personnes sans se prendre la tête" src="http://korben.info/wp-content/uploads/2013/04/entouragebbox.jpg" width="650" height="321" title="Comment récupérer de nombreux fichiers en provenance de nombreuses personnes sans se prendre la tête" /></a></p>
+<p><a href="http://www.entouragebox.com/">EntourageBox</a> c'est par ici et c'est bien pratique !</p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=wT2IAYUIURU:huvgvZZ6-OI:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=wT2IAYUIURU:huvgvZZ6-OI:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=wT2IAYUIURU:huvgvZZ6-OI:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=wT2IAYUIURU:huvgvZZ6-OI:GG6oivYVkFs"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=wT2IAYUIURU:huvgvZZ6-OI:GG6oivYVkFs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=wT2IAYUIURU:huvgvZZ6-OI:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=wT2IAYUIURU:huvgvZZ6-OI:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=wT2IAYUIURU:huvgvZZ6-OI:gIN9vFwOqvQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=wT2IAYUIURU:huvgvZZ6-OI:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=7Q72WNTAKBA" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/KorbensBlog-UpgradeYourMind/~4/wT2IAYUIURU" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://korben.info/entouragebox.html/feed</wfw:commentRss>
+		<slash:comments>12</slash:comments>
+		<feedburner:origLink>http://korben.info/entouragebox.html</feedburner:origLink></item>
+		<item>
+		<title>Bon plan sur le disque dur externe 2 To</title>
+		<link>http://feedproxy.google.com/~r/KorbensBlog-UpgradeYourMind/~3/XJJ3gg1xgrY/bon-plan-sur-le-disque-dur-externe-2-to.html</link>
+		<comments>http://korben.info/bon-plan-sur-le-disque-dur-externe-2-to.html#comments</comments>
+		<pubDate>Fri, 26 Apr 2013 04:11:16 +0000</pubDate>
+		<dc:creator>Korben</dc:creator>
+				<category><![CDATA[Bon plan]]></category>
+
+		<guid isPermaLink="false">http://korben.info/?p=39608</guid>
+		<description><![CDATA[Do you neeeed moar space ?! Alors si c'est le cas, voici le bon plan du jour qui porte sur un disque dur externe Toshiba StorE BASICS de 2 To. De couleur noire, ce petit disque dur (2,5 ") auto alimenté fonctionne en USB 3.0 et est vendu 138.90 € (livraison gratuite) + 5 € [...]]]></description>
+				<content:encoded><![CDATA[<p>Do you neeeed moar space ?!</p>
+<p>Alors si c'est le cas, voici le bon plan du jour qui porte sur un <a href="http://track.effiliation.com/servlet/effi.redir?id_compteur=12343154&amp;url=http://www.priceminister.com/offer/buy/195502025/toshiba-store-basics-disque-dur.html">disque dur externe Toshiba StorE BASICS de 2 To</a>. De couleur noire, ce petit disque dur (2,5 ") auto alimenté fonctionne en USB 3.0 et est vendu 138.90 € (livraison gratuite) + 5 € de réduction avec le code WELKKORBEN, ce qui fait le <strong>disque dur à 133,90 €</strong> seulement jusqu'à ce soir minuit. (Moins cher qu'Amazon donc)</p>
+<p style="text-align: center;"><a href="http://korben.info/wp-content/uploads/2013/04/939584801.jpg"><img class="aligncenter size-full wp-image-39609" alt="939584801 Bon plan sur le disque dur externe 2 To" src="http://korben.info/wp-content/uploads/2013/04/939584801.jpg" width="300" height="300" title="Bon plan sur le disque dur externe 2 To" /></a></p>
+<p style="text-align: left;">Pratique pour transporter votre bordel de fichiers avec vous, même dans les missions les plus périlleuses.</p>
+<p style="text-align: left;">ps : liens affiliés comme d'hab</p>
+<div>Conditions : 5€ offert sur le <a href="http://track.effiliation.com/servlet/effi.redir?id_compteur=12343154&amp;url=http://www.priceminister.com/offer/buy/195502025/toshiba-store-basics-disque-dur.html">Toshiba store basics 2 To 2.5’’ USB 3.0 noir mat</a> / Validité : limité aux 100 premières utilisations, valable dès maintenant et jusqu’au 28/04/2013 !</div>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=XJJ3gg1xgrY:X05ywdm9NxY:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=XJJ3gg1xgrY:X05ywdm9NxY:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=XJJ3gg1xgrY:X05ywdm9NxY:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=XJJ3gg1xgrY:X05ywdm9NxY:GG6oivYVkFs"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=XJJ3gg1xgrY:X05ywdm9NxY:GG6oivYVkFs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=XJJ3gg1xgrY:X05ywdm9NxY:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=XJJ3gg1xgrY:X05ywdm9NxY:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=XJJ3gg1xgrY:X05ywdm9NxY:gIN9vFwOqvQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=XJJ3gg1xgrY:X05ywdm9NxY:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=7Q72WNTAKBA" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/KorbensBlog-UpgradeYourMind/~4/XJJ3gg1xgrY" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://korben.info/bon-plan-sur-le-disque-dur-externe-2-to.html/feed</wfw:commentRss>
+		<slash:comments>7</slash:comments>
+		<feedburner:origLink>http://korben.info/bon-plan-sur-le-disque-dur-externe-2-to.html</feedburner:origLink></item>
+		<item>
+		<title>Gagnez encore plus de temps avec votre terminal</title>
+		<link>http://feedproxy.google.com/~r/KorbensBlog-UpgradeYourMind/~3/eB_0jbaD4Q8/gagnez-encore-plus-de-temps-avec-votre-terminal.html</link>
+		<comments>http://korben.info/gagnez-encore-plus-de-temps-avec-votre-terminal.html#comments</comments>
+		<pubDate>Thu, 25 Apr 2013 13:30:27 +0000</pubDate>
+		<dc:creator>Korben</dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Mac OSX]]></category>
+
+		<guid isPermaLink="false">http://korben.info/?p=39584</guid>
+		<description><![CDATA[Si vous utilisez souvent votre terminal, que ce soit sous GNU/Linux ou Mac OSX, vous avez dû remarquer qu'en appuyant sur la touche "Flèche vers le haut" de votre clavier, vous aviez accès à vos dernières commandes. (OUAIS, LE SCOOP !) Mais aujourd'hui, je vous propose d'aller encore plus loin et de blower votre mind. [...]]]></description>
+				<content:encoded><![CDATA[<p>Si vous utilisez souvent votre terminal, que ce soit sous GNU/Linux ou Mac OSX, vous avez dû remarquer qu'en appuyant sur la touche "Flèche vers le haut" de votre clavier, vous aviez accès à vos dernières commandes. (OUAIS, LE SCOOP !)</p>
+<p>Mais aujourd'hui, je vous propose d'aller encore plus loin et de blower votre mind. De repousser les limites du shell et de votre esprit embrumé grâce à une petite bidouille qui va vous permettre de taper le début d'une commande (Par exemple cd, nano, cp...etc.) puis en appuyant sur "Flèche vers le haut" (Je trouve ça con comme expression en fait... C'est quoi le vrai nom de cette touche qui sert à lever les bras dans les jeux vidéos ?) de faire défiler uniquement l'historique des commandes relatif à ce programme.</p>
+<p>Pour cela, il suffit d'ouvrir ou de créer un fichier .inputrc dans votre répertoire home puis d'y ajouter les lignes suivantes :</p>
+<blockquote><p>"\e[A": history-search-backward<br />
+"\e[B": history-search-forward<br />
+set show-all-if-ambiguous on<br />
+set completion-ignore-case on</p></blockquote>
+<p>Une fois que c'est fait, lancez un terminal et profitez de tout ce temps économisé qui à la fin de votre vie, se comptera surement en années.</p>
+<p><a href="http://lifehacker.com/supercharge-your-command-lines-history-search-with-fou-478683529">Source</a>k</p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=eB_0jbaD4Q8:3Z_UzbOQfuU:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=eB_0jbaD4Q8:3Z_UzbOQfuU:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=eB_0jbaD4Q8:3Z_UzbOQfuU:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=eB_0jbaD4Q8:3Z_UzbOQfuU:GG6oivYVkFs"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=eB_0jbaD4Q8:3Z_UzbOQfuU:GG6oivYVkFs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=eB_0jbaD4Q8:3Z_UzbOQfuU:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=eB_0jbaD4Q8:3Z_UzbOQfuU:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=eB_0jbaD4Q8:3Z_UzbOQfuU:gIN9vFwOqvQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=eB_0jbaD4Q8:3Z_UzbOQfuU:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=7Q72WNTAKBA" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/KorbensBlog-UpgradeYourMind/~4/eB_0jbaD4Q8" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://korben.info/gagnez-encore-plus-de-temps-avec-votre-terminal.html/feed</wfw:commentRss>
+		<slash:comments>29</slash:comments>
+		<feedburner:origLink>http://korben.info/gagnez-encore-plus-de-temps-avec-votre-terminal.html</feedburner:origLink></item>
+		<item>
+		<title>IPKG not found – Voici comment réparer l’install d’IPKG sur votre NAS Synology</title>
+		<link>http://feedproxy.google.com/~r/KorbensBlog-UpgradeYourMind/~3/EE_urEds7KA/ipkg-not-found-voici-comment-reparer-linstall-dipkg-sur-votre-nas-synology.html</link>
+		<comments>http://korben.info/ipkg-not-found-voici-comment-reparer-linstall-dipkg-sur-votre-nas-synology.html#comments</comments>
+		<pubDate>Thu, 25 Apr 2013 11:30:48 +0000</pubDate>
+		<dc:creator>Korben</dc:creator>
+				<category><![CDATA[Linux]]></category>
+
+		<guid isPermaLink="false">http://korben.info/?p=39580</guid>
+		<description><![CDATA[Il y a quelques mois, je vous avais expliqué comment installer le gestionnaire de paquets IPKG sur votre Synology pour pouvoir installer ensuite tous les softs que vous désirez au plus profond de votre petit coeur. Malheureusement, de manière totalement unfuckinbelievable, après la mise à jour vers DSM 4.x, la modif a sauté. Voici comment [...]]]></description>
+				<content:encoded><![CDATA[<p>Il y a quelques mois, je vous avais expliqué <a href="http://korben.info/installer-ipkg-sur-synology.html">comment installer le gestionnaire de paquets IPKG sur votre Synology</a> pour pouvoir installer ensuite tous les softs que vous désirez au plus profond de votre petit coeur.</p>
+<p>Malheureusement, de manière totalement unfuckinbelievable, après la mise à jour vers DSM 4.x, la modif a sauté. Voici comment réparer l'infamie et récupérer un IPKG totalement fonctionnel !</p>
+<p>Tout d'abord, éditez le fichier suivant :</p>
+<blockquote><p>vi /etc/rc.local</p></blockquote>
+<p>et ajoutez-y la ligne suivante juste après la première ligne "#!/bin/sh" :</p>
+<blockquote><p>mount -o bind /volume1/@optware /opt</p></blockquote>
+<p>Ouvrez ensuite le fichier /root/.profile et ajoutez dans la ligne suivante, les éléments que j'ai mis en gras. :</p>
+<blockquote><p>PATH=<strong>/opt/bin:/opt/sbin:</strong>/sbin:/bin:/usr/sbin:...etc</p></blockquote>
+<p>Voili, voilou... Maintenant, il ne vous rester plus qu'à redémarrer le NAS et le tour sera joué.</p>
+<p>Enfin, pour tester et mettre à jours vos paquets IPKG, pensez à lancer les 2 lignes de commande ci-dessous :</p>
+<blockquote><p>ipkg update</p></blockquote>
+<blockquote><p>ipkg upgrade</p></blockquote>
+<p>A suivre...</p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=EE_urEds7KA:5Uq7O3xkSfo:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=EE_urEds7KA:5Uq7O3xkSfo:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=EE_urEds7KA:5Uq7O3xkSfo:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=EE_urEds7KA:5Uq7O3xkSfo:GG6oivYVkFs"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=EE_urEds7KA:5Uq7O3xkSfo:GG6oivYVkFs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=EE_urEds7KA:5Uq7O3xkSfo:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=EE_urEds7KA:5Uq7O3xkSfo:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=EE_urEds7KA:5Uq7O3xkSfo:gIN9vFwOqvQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=EE_urEds7KA:5Uq7O3xkSfo:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=7Q72WNTAKBA" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/KorbensBlog-UpgradeYourMind/~4/EE_urEds7KA" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://korben.info/ipkg-not-found-voici-comment-reparer-linstall-dipkg-sur-votre-nas-synology.html/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		<feedburner:origLink>http://korben.info/ipkg-not-found-voici-comment-reparer-linstall-dipkg-sur-votre-nas-synology.html</feedburner:origLink></item>
+		<item>
+		<title>SyncApp de Bittorrent sort de version alpha privée</title>
+		<link>http://feedproxy.google.com/~r/KorbensBlog-UpgradeYourMind/~3/OM68Dz30rLo/syncapp.html</link>
+		<comments>http://korben.info/syncapp.html#comments</comments>
+		<pubDate>Thu, 25 Apr 2013 08:30:20 +0000</pubDate>
+		<dc:creator>Korben</dc:creator>
+				<category><![CDATA[Download]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Mac OSX]]></category>
+		<category><![CDATA[Windows]]></category>
+
+		<guid isPermaLink="false">http://korben.info/?p=39576</guid>
+		<description><![CDATA[Bon, je ne vais pas vous la refaire parce que j'ai déjà tout expliqué ici, mais sachez que Bittorrent a enfin sorti une version publique de son logiciel de synchro P2P. Que ce soit pour vos backups, pour remplacer votre Dropbox ou pour synchroniser un bon gros répertoire de MP3 avec vos potes, SyncApp c'est [...]]]></description>
+				<content:encoded><![CDATA[<p>Bon, je ne vais pas vous la refaire parce que j'ai déjà <a href="http://korben.info/testez-syncapp-de-bittorrent.html">tout expliqué ici</a>, mais sachez que Bittorrent a enfin sorti une version publique de son logiciel de synchro P2P. Que ce soit pour vos backups, pour remplacer votre Dropbox ou pour synchroniser un bon gros répertoire de MP3 avec vos potes, <a href="http://labs.bittorrent.com/experiments/sync.html">SyncApp</a> c'est vraiment du bonheur.</p>
+<p>Les échanges sont chiffrés en AES 256 et SyncApp permet de s'affranchir des systèmes centralisés. Et ça, c'est une véritable bouffée d'air frais. Ça ne couvre pas encore 100% des besoins de chacun (pas de versionning, pas de partage public, pas d'aperçu en ligne...etc.), mais je suis certain que cela conviendra au plus grand nombre. De quoi faire quelques économies et se réapproprier ses données.</p>
+<p style="text-align: center;"><a href="http://korben.info/wp-content/uploads/2013/04/sync1.png"><img class="aligncenter size-full wp-image-39577" alt="sync1 SyncApp de Bittorrent sort de version alpha privée" src="http://korben.info/wp-content/uploads/2013/04/sync1.png" width="593" height="393" title="SyncApp de Bittorrent sort de version alpha privée" /></a></p>
+<p> <a href="http://labs.bittorrent.com/experiments/sync.html">SyncApp</a> est dispo sous Windows, Mac OSX, mais aussi et surtout sous Linux (et sur les NAS).</p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=OM68Dz30rLo:k8U_nI4Rmxs:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=OM68Dz30rLo:k8U_nI4Rmxs:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=OM68Dz30rLo:k8U_nI4Rmxs:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=OM68Dz30rLo:k8U_nI4Rmxs:GG6oivYVkFs"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=OM68Dz30rLo:k8U_nI4Rmxs:GG6oivYVkFs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=OM68Dz30rLo:k8U_nI4Rmxs:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=OM68Dz30rLo:k8U_nI4Rmxs:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=OM68Dz30rLo:k8U_nI4Rmxs:gIN9vFwOqvQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=OM68Dz30rLo:k8U_nI4Rmxs:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=7Q72WNTAKBA" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/KorbensBlog-UpgradeYourMind/~4/OM68Dz30rLo" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://korben.info/syncapp.html/feed</wfw:commentRss>
+		<slash:comments>28</slash:comments>
+		<feedburner:origLink>http://korben.info/syncapp.html</feedburner:origLink></item>
+		<item>
+		<title>A la poursuite du mec normal</title>
+		<link>http://feedproxy.google.com/~r/KorbensBlog-UpgradeYourMind/~3/kJPeAP9i1u4/spy-vs-guy.html</link>
+		<comments>http://korben.info/spy-vs-guy.html#comments</comments>
+		<pubDate>Thu, 25 Apr 2013 07:30:10 +0000</pubDate>
+		<dc:creator>Korben</dc:creator>
+				<category><![CDATA[Vidéo]]></category>
+
+		<guid isPermaLink="false">http://korben.info/?p=39600</guid>
+		<description><![CDATA[Voici un court métrage qui m'a bien plu... Durant la guerre froide, une technologie militaire secrète et terriblement dangereuse est égarée. Ce n'est que de nombreuses années plus tard que celle-ci refait surface. Un ex-agent secret russe est alors chargé de remettre la main dessus. Vous allez vous régaler ;-) &#160;]]></description>
+				<content:encoded><![CDATA[<p>Voici un court métrage qui m'a bien plu... Durant la guerre froide, une technologie militaire secrète et terriblement dangereuse est égarée. Ce n'est que de nombreuses années plus tard que celle-ci refait surface. Un ex-agent secret russe est alors chargé de remettre la main dessus.</p>
+<p>Vous allez vous régaler ;-)</p>
+<p style="text-align: center;"><iframe src="http://player.vimeo.com/video/64660267" height="360" width="640" allowfullscreen="" frameborder="0"></iframe></p>
+<p>&nbsp;</p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=kJPeAP9i1u4:coN6Ibv_o-Q:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=kJPeAP9i1u4:coN6Ibv_o-Q:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=kJPeAP9i1u4:coN6Ibv_o-Q:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=kJPeAP9i1u4:coN6Ibv_o-Q:GG6oivYVkFs"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=kJPeAP9i1u4:coN6Ibv_o-Q:GG6oivYVkFs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=kJPeAP9i1u4:coN6Ibv_o-Q:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=kJPeAP9i1u4:coN6Ibv_o-Q:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=kJPeAP9i1u4:coN6Ibv_o-Q:gIN9vFwOqvQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=kJPeAP9i1u4:coN6Ibv_o-Q:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=7Q72WNTAKBA" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/KorbensBlog-UpgradeYourMind/~4/kJPeAP9i1u4" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://korben.info/spy-vs-guy.html/feed</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		<feedburner:origLink>http://korben.info/spy-vs-guy.html</feedburner:origLink></item>
+		<item>
+		<title>Utiliser la faille Viber pour dévérrouiller un téléphone Android</title>
+		<link>http://feedproxy.google.com/~r/KorbensBlog-UpgradeYourMind/~3/MtFaZ5BOPrQ/utiliser-la-faille-viber-pour-deverrouiller-un-telephone-android.html</link>
+		<comments>http://korben.info/utiliser-la-faille-viber-pour-deverrouiller-un-telephone-android.html#comments</comments>
+		<pubDate>Thu, 25 Apr 2013 06:30:50 +0000</pubDate>
+		<dc:creator>Korben</dc:creator>
+				<category><![CDATA[Android]]></category>
+		<category><![CDATA[Sécurité]]></category>
+
+		<guid isPermaLink="false">http://korben.info/?p=39571</guid>
+		<description><![CDATA[Dites donc, ça n'arrête pas en ce moment le ping-pong entre iOS et Android sur comment accéder facilement à un mobile verrouillé.... Dernier exemple en date, Android qui à cause d'une application tierce, peut être déverrouillé en un rien de temps. L'application en cause s'appelle Viber. Vous la connaissez sans doute puisqu'elle permet de communiquer [...]]]></description>
+				<content:encoded><![CDATA[<p>Dites donc, ça n'arrête pas en ce moment le ping-pong entre iOS et Android sur comment accéder facilement à un mobile verrouillé.... Dernier exemple en date, Android qui à cause d'une application tierce, peut être déverrouillé en un rien de temps.</p>
+<p>L'application en cause s'appelle <a href="http://www.viber.com/"><strong>Viber</strong></a>. Vous la connaissez sans doute puisqu'elle permet de communiquer par écrit et vocalement avec d'autres inscrits (gratuitement) vu que tout passe par le Net. C'est un soft de VoIP si vous préférez. Et c'est tip top, puisque ça tourne sous Android, iPhone, BlackBerry et Windows Phone.</p>
+<p>Malheureusement, il est possible en envoyant un simple message texte Viber à destination d'un téléphone victime, de faire sauter sauter le verrouillage grâce à la popup Viber et ainsi d’accéder au clavier puis totalement à l'appareil.</p>
+<p>Voici la démo en vidéo :
+<p style="text-align: center;"><iframe src="http://www.youtube.com/embed/tb4y_1cz8WY?feature=player_embedded" height="360" width="640" allowfullscreen="" frameborder="0"></iframe></p>
+<p> Aucune communication pour le moment du côté de Viber mais espérons qu'un correctif est en route. En attendant, pas de panique puisque 2 choix s'offrent à vous : Désinstaller Viber ou faire en sorte que votre téléphone reste à chaque instant sous votre surveillance.</p>
+<p>Allez iOs, maintenant, c'est à toi.</p>
+<p><a href="http://news.softpedia.com/news/Viber-Flaw-Allows-Hackers-to-Bypass-Android-Smartphone-Lock-Screens-Video-347763.shtml">Source</a></p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=MtFaZ5BOPrQ:NE0bvNMa0ik:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=MtFaZ5BOPrQ:NE0bvNMa0ik:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=MtFaZ5BOPrQ:NE0bvNMa0ik:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=MtFaZ5BOPrQ:NE0bvNMa0ik:GG6oivYVkFs"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=MtFaZ5BOPrQ:NE0bvNMa0ik:GG6oivYVkFs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=MtFaZ5BOPrQ:NE0bvNMa0ik:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=MtFaZ5BOPrQ:NE0bvNMa0ik:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=MtFaZ5BOPrQ:NE0bvNMa0ik:gIN9vFwOqvQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=MtFaZ5BOPrQ:NE0bvNMa0ik:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=7Q72WNTAKBA" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/KorbensBlog-UpgradeYourMind/~4/MtFaZ5BOPrQ" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://korben.info/utiliser-la-faille-viber-pour-deverrouiller-un-telephone-android.html/feed</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		<feedburner:origLink>http://korben.info/utiliser-la-faille-viber-pour-deverrouiller-un-telephone-android.html</feedburner:origLink></item>
+		<item>
+		<title>La batcave d’un mec normal</title>
+		<link>http://feedproxy.google.com/~r/KorbensBlog-UpgradeYourMind/~3/0KRBdvsreQI/batcave.html</link>
+		<comments>http://korben.info/batcave.html#comments</comments>
+		<pubDate>Thu, 25 Apr 2013 05:30:41 +0000</pubDate>
+		<dc:creator>Korben</dc:creator>
+				<category><![CDATA[Vidéo]]></category>
+
+		<guid isPermaLink="false">http://korben.info/?p=39604</guid>
+		<description><![CDATA[Ce mec est un furieux ! Fan depuis sa plus tendre enfance de Batman, il a transformé l'intégralité de son sous-sol en BatCave pouvant héberger son immense collection.... Pour réaliser ce projet ambitieux, il a dû dépenser pas moins de 150 000 $ et il y a passé 2 années de sa vie. (Avec la [...]]]></description>
+				<content:encoded><![CDATA[<p>Ce mec est un furieux ! Fan depuis sa plus tendre enfance de Batman, il a transformé l'intégralité de son sous-sol en BatCave pouvant héberger son immense collection....</p>
+<p>Pour réaliser ce projet ambitieux, il a dû dépenser pas moins de 150 000 $ et il y a passé 2 années de sa vie. (Avec la bénédiction de maman apparemment.)</p>
+<p>Voici une petite visite guidée...</p>
+<p style="text-align: center;"><iframe src="http://www.youtube.com/embed/PVgQseleVNw?feature=player_embedded" height="360" width="640" allowfullscreen="" frameborder="0"></iframe></p>
+<p><a href="http://www.geeksaresexy.net/2013/04/24/man-creates-real-life-batcave-video/">Source</a></p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=0KRBdvsreQI:cgQVb0TMaUw:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=0KRBdvsreQI:cgQVb0TMaUw:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=0KRBdvsreQI:cgQVb0TMaUw:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=0KRBdvsreQI:cgQVb0TMaUw:GG6oivYVkFs"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=0KRBdvsreQI:cgQVb0TMaUw:GG6oivYVkFs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=0KRBdvsreQI:cgQVb0TMaUw:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=0KRBdvsreQI:cgQVb0TMaUw:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=0KRBdvsreQI:cgQVb0TMaUw:gIN9vFwOqvQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=0KRBdvsreQI:cgQVb0TMaUw:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=7Q72WNTAKBA" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/KorbensBlog-UpgradeYourMind/~4/0KRBdvsreQI" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://korben.info/batcave.html/feed</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		<feedburner:origLink>http://korben.info/batcave.html</feedburner:origLink></item>
+		<item>
+		<title>La TSA israelienne autorise ses agents de sécurité à lire les emails des touristes</title>
+		<link>http://feedproxy.google.com/~r/KorbensBlog-UpgradeYourMind/~3/3JwGaEiTZi0/la-tsa-israelienne-autorise-ses-agents-de-securite-a-lire-les-emails-des-touristes.html</link>
+		<comments>http://korben.info/la-tsa-israelienne-autorise-ses-agents-de-securite-a-lire-les-emails-des-touristes.html#comments</comments>
+		<pubDate>Thu, 25 Apr 2013 00:17:26 +0000</pubDate>
+		<dc:creator>Korben</dc:creator>
+				<category><![CDATA[Société]]></category>
+
+		<guid isPermaLink="false">http://korben.info/?p=39592</guid>
+		<description><![CDATA[Je ne sais pas si certains d'entre vous ont prévu d'aller faire un peu de tourisme en Israël prochainement, mais soyez informés que votre vie privée risque d'en prendre un coup. En effet, les agents de sécurité de l'aéroport Ben Gurion sont maintenant accrédités pour demander à lire les emails des touristes et leur refuser [...]]]></description>
+				<content:encoded><![CDATA[<p>Je ne sais pas si certains d'entre vous ont prévu d'aller faire un peu de tourisme en Israël prochainement, mais soyez informés que votre vie privée risque d'en prendre un coup. En effet, les agents de sécurité de l'aéroport Ben Gurion sont maintenant accrédités pour demander à lire les emails des touristes et leur refuser l'accès au pays si ces derniers refusent.</p>
+<p>D'après les instances officielles, cette pratique resterait toutefois exceptionnelle, mais les défenseurs de droits civils dénoncent une violation de la vie privée et un recul pour la démocratie puisque le touriste qui a dépensé plusieurs centaines d'euros pour son voyage pourra difficilement refuser une telle demande de peur qu'on lui refuse l'accès au territoire, sacrifiant ainsi une grosse somme d'argent et ses vacances.</p>
+<p>Le zèle des agents de sécurité Israeliens ferait presque passer les agents de sécurité américains pour des gros branleurs... C'est dire ! Et tu habites où, et comment s'appelle ta mère, et tu fais quoi dans la vie, et tu voyages seul, et tu as quoi dans ta valise, et tu préfères le poulet ou le jambon, et tu préfères les chiens où les chats...Etc.,etc.. Je ne vous raconte pas les durées d'attente avant d'embarquer.</p>
+<p>Bref, c'est vraiment triste qu'on en arrive là. Je me demande d'ailleurs si ce genre de pratique sera un jour mise en place chez nous ou aux États-Unis. (Pour voir si vous transportez des armes de guerre qu'on appelle DivX ?)</p>
+<p>L'histoire ne dit pas si les mails sont consultés offline sur le PC ou le mobile, ou online, ou si on doit communiquer ses identifiants de messagerie aux agents.... Ce qui est vraiment con, c'est qu'il est très facile de partir avec du matos propre, connecté sur une boite mail à la con, et de faire le changement vers sa véritable boite mail une fois passé les agents de sécurité.</p>
+<p><a href="http://yro.slashdot.org/story/13/04/24/229213/israel-airport-security-allowed-to-read-tourists-email">Source</a></p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=3JwGaEiTZi0:kA4pGTUAars:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=3JwGaEiTZi0:kA4pGTUAars:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=3JwGaEiTZi0:kA4pGTUAars:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=3JwGaEiTZi0:kA4pGTUAars:GG6oivYVkFs"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=3JwGaEiTZi0:kA4pGTUAars:GG6oivYVkFs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=3JwGaEiTZi0:kA4pGTUAars:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=3JwGaEiTZi0:kA4pGTUAars:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=3JwGaEiTZi0:kA4pGTUAars:gIN9vFwOqvQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=3JwGaEiTZi0:kA4pGTUAars:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=7Q72WNTAKBA" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/KorbensBlog-UpgradeYourMind/~4/3JwGaEiTZi0" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://korben.info/la-tsa-israelienne-autorise-ses-agents-de-securite-a-lire-les-emails-des-touristes.html/feed</wfw:commentRss>
+		<slash:comments>23</slash:comments>
+		<feedburner:origLink>http://korben.info/la-tsa-israelienne-autorise-ses-agents-de-securite-a-lire-les-emails-des-touristes.html</feedburner:origLink></item>
+		<item>
+		<title>La Revanche d’une blonde</title>
+		<link>http://feedproxy.google.com/~r/KorbensBlog-UpgradeYourMind/~3/3fEaqjvtrVM/hybrids.html</link>
+		<comments>http://korben.info/hybrids.html#comments</comments>
+		<pubDate>Wed, 24 Apr 2013 23:55:07 +0000</pubDate>
+		<dc:creator>Korben</dc:creator>
+				<category><![CDATA[Vidéo]]></category>
+
+		<guid isPermaLink="false">http://korben.info/?p=39589</guid>
+		<description><![CDATA[Hybrids : À l'aube d'une invasion extra-terrestre, une ex-soldate des forces spéciales perd sa fille à cause d'un alien. La revanche devient alors sa seule raison de vivre et elle n'hésite pas à prendre tous les risques pour se débarrasser d'un maximum de ces aliens envahisseurs. Bien foutu comme court métrage non ? Si vous [...]]]></description>
+				<content:encoded><![CDATA[<p><strong>Hybrids</strong> : À l'aube d'une invasion extra-terrestre, une ex-soldate des forces spéciales perd sa fille à cause d'un alien. La revanche devient alors sa seule raison de vivre et elle n'hésite pas à prendre tous les risques pour se débarrasser d'un maximum de ces aliens envahisseurs.</p>
+<p style="text-align: center;"><iframe src="http://player.vimeo.com/video/64532461" height="360" width="650" allowfullscreen="" frameborder="0"></iframe></p>
+<p> Bien foutu comme court métrage non ? Si vous cherchez la musique de celui-ci, <a href="http://samhulick.bandcamp.com/album/hybrids">c'est par là</a>.</p>
+<p><a href="http://www.geeksaresexy.net/2013/04/24/featured-sci-fi-short-hybrids-video/">Source</a></p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=3fEaqjvtrVM:AfSrNgkD6EU:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=3fEaqjvtrVM:AfSrNgkD6EU:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=3fEaqjvtrVM:AfSrNgkD6EU:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=3fEaqjvtrVM:AfSrNgkD6EU:GG6oivYVkFs"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=3fEaqjvtrVM:AfSrNgkD6EU:GG6oivYVkFs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=3fEaqjvtrVM:AfSrNgkD6EU:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=3fEaqjvtrVM:AfSrNgkD6EU:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=3fEaqjvtrVM:AfSrNgkD6EU:gIN9vFwOqvQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=3fEaqjvtrVM:AfSrNgkD6EU:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=7Q72WNTAKBA" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/KorbensBlog-UpgradeYourMind/~4/3fEaqjvtrVM" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://korben.info/hybrids.html/feed</wfw:commentRss>
+		<slash:comments>10</slash:comments>
+		<feedburner:origLink>http://korben.info/hybrids.html</feedburner:origLink></item>
+		<item>
+		<title>3 comptes premium Backblaze à gagner</title>
+		<link>http://feedproxy.google.com/~r/KorbensBlog-UpgradeYourMind/~3/HczwTAntq7g/backblaze.html</link>
+		<comments>http://korben.info/backblaze.html#comments</comments>
+		<pubDate>Wed, 24 Apr 2013 08:00:44 +0000</pubDate>
+		<dc:creator>Korben</dc:creator>
+				<category><![CDATA[Concours]]></category>
+
+		<guid isPermaLink="false">http://korben.info/?p=39460</guid>
+		<description><![CDATA[Chers amis, il y a quelques mois, je vous avais promis un petit concours pour gagner des codes pour tester gratuitement Backblaze durant 3 mois et ce jour est arrivé. Pour ceux qui ne connaitraient pas encore Backblaze, il s'agit d'un service qui permet de sauvegarder en ligne les données de votre ordinateur (Windows ou [...]]]></description>
+				<content:encoded><![CDATA[<p>Chers amis, il y a quelques mois, je vous avais promis un petit concours pour gagner des codes pour tester gratuitement <a href="http://kbn.im/Y4ELiE">Backblaze</a> durant 3 mois et ce jour est arrivé.</p>
+<p>Pour ceux qui ne connaitraient pas encore Backblaze, il s'agit d'un service qui permet de sauvegarder en ligne les données de votre ordinateur (Windows ou Mac) pour un peu moins de 4 $ par mois.<br />
+Le logiciel est simple à installer et à configurer. En gros, vous choisissez les répertoires que vous souhaitez sauvegarder (ou ceux que vous souhaitez exclure, genre votre dossier rempli de DivX… lol), vous indiquez un bon gros mot de passe qui servira au chiffrement de vos données et vous lancez la sauvegarde.</p>
+<p>Pour l'avoir testé, Backblaze ne ralentit pas la machine et sait se faire discret. Ça tourne uniquement sous Mac et Windows et les sauvegardes se font en continu, ce qui vous garantit un backup régulièrement à jour.</p>
+<p style="text-align: center;"><a href="http://korben.info/wp-content/uploads/2013/04/bb1.jpg"><img class="aligncenter size-full wp-image-39461" alt="bb1 3 comptes premium Backblaze à gagner" src="http://korben.info/wp-content/uploads/2013/04/bb1.jpg" width="650" height="473" title="3 comptes premium Backblaze à gagner" /></a></p>
+<p>Le plus beau là-dedans, c'est que le stockage est illimité. Vous pouvez envoyer autant de téra-octets que vous le souhaitez sur Backblaze sans coût supplémentaire. Bon, la première sauvegarde risque de durer plusieurs mois si vous avez une petite connexion ADSL, mais si vous n'êtes pas pressé, c'est tout bon. Ensuite, c'est de l'incrémental, donc ça va beaucoup plus vite.</p>
+<p>Vos données sont alors accessibles en ligne à partir du moment où vous vous souvenez de la clé privée qui a servi au chiffrement de celles-ci et Backblaze conserve 4 semaines de versions sur tous vos fichiers. Du coup, même si vous n'avez pas subi de crash de votre système, mais simplement écrasé un document qui vous est cher, Backblaze permet de remonter dans le temps et de récupérer une version antérieure de votre document.</p>
+<p>Niveau sécurité, le chiffrement est effectué sur votre machine avant envoi. D'ailleurs, si vous souhaitez en savoir plus sur le chiffrement appliqué par ce service, je vous invite à lire <a href="http://blog.backblaze.com/2008/11/12/how-to-make-strong-encryption-easy-to-use/">ce billet</a>.</p>
+<p>Enfin, et je terminerai là dessus, si vos données sont détruites, vous pouvez bien évidemment récupérer un gros zip à téléchargement directement sur le site, mais si vous êtes vraiment pressé et qu'il y a plusieurs Gigaoctet ou téraoctet à récupérer, Backblaze vous propose moyennent quelques dollars, de vous envoyer une clé USB ou un disque dur contenant vos fichiers.</p>
+<p style="text-align: center;"><a href="http://korben.info/wp-content/uploads/2013/04/bb2.png"><img class="aligncenter size-full wp-image-39462" alt="bb2 3 comptes premium Backblaze à gagner" src="http://korben.info/wp-content/uploads/2013/04/bb2.png" width="650" height="488" title="3 comptes premium Backblaze à gagner" /></a></p>
+<p>Evidemment, comme d'habitude avec tout ce qui est hébergement chez une société tierce, je vous conseille de faire preuve de bon sens et de sauvegarder uniquement des données non sensibles. Ce que j'apprécie avec <a href="http://kbn.im/Y4ELiE">Backblaze</a>, c'est le côté "place illimité" qui permet de faire le bourrin niveau backup.</p>
+<p>Bref, si ça vous dit de tester, j'ai 3 comptes de 3 mois à vous offrir. Pour cela, il suffit de remplir le petit widget Kontest ci-dessous et à laisser faire le Dieu du Random.</p>
+<div style="width: 640px;"><iframe src="http://contest-qj9c5h.xg1.li/widget" height="450" width="640" frameborder="0"></iframe></div>
+<p>Bonne chance !</p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=HczwTAntq7g:wn4tXkzfAVs:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=HczwTAntq7g:wn4tXkzfAVs:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=HczwTAntq7g:wn4tXkzfAVs:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=HczwTAntq7g:wn4tXkzfAVs:GG6oivYVkFs"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=HczwTAntq7g:wn4tXkzfAVs:GG6oivYVkFs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=HczwTAntq7g:wn4tXkzfAVs:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=HczwTAntq7g:wn4tXkzfAVs:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=HczwTAntq7g:wn4tXkzfAVs:gIN9vFwOqvQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=HczwTAntq7g:wn4tXkzfAVs:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=7Q72WNTAKBA" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/KorbensBlog-UpgradeYourMind/~4/HczwTAntq7g" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://korben.info/backblaze.html/feed</wfw:commentRss>
+		<slash:comments>26</slash:comments>
+		<feedburner:origLink>http://korben.info/backblaze.html</feedburner:origLink></item>
+		<item>
+		<title>Ubuntu – Les touches Fn pour régler la luminosité ne fonctionnent pas ?</title>
+		<link>http://feedproxy.google.com/~r/KorbensBlog-UpgradeYourMind/~3/R3HLq9A1D-k/touches-fn-luminosite-ne-fonctionnent-pas.html</link>
+		<comments>http://korben.info/touches-fn-luminosite-ne-fonctionnent-pas.html#comments</comments>
+		<pubDate>Wed, 24 Apr 2013 07:30:44 +0000</pubDate>
+		<dc:creator>Korben</dc:creator>
+				<category><![CDATA[Linux]]></category>
+
+		<guid isPermaLink="false">http://korben.info/?p=39560</guid>
+		<description><![CDATA[Si vous avez installé Ubuntu sur une machine portable un peu exotique, il se peut que les touches de fonction (Fn) qui permettent de régler la luminosité ne soient pas utilisables. Il est heureusement possible de contourner le problème avec Indicator-Brightness, un soft qui se glisse dans la barre d'état d'Unity et qui permet de [...]]]></description>
+				<content:encoded><![CDATA[<p>Si vous avez installé Ubuntu sur une machine portable un peu exotique, il se peut que les touches de fonction (Fn) qui permettent de régler la luminosité ne soient pas utilisables. Il est heureusement possible de contourner le problème avec <strong><a href="http://codevanrohde.nl/wordpress/?p=128">Indicator-Brightness</a></strong>, un soft qui se glisse dans la barre d'état d'Unity et qui permet de régler la luminosité, soit en cliquant dessus, soit en donnant un petit coup de molette sur l'icône, soit grâce à des raccourcis clavier que vous aurez attribué.</p>
+<p style="text-align: center;"><a href="http://korben.info/wp-content/uploads/2013/04/brightness-indicator-shadow.jpg"><img class="aligncenter size-full wp-image-39561" alt="brightness indicator shadow Ubuntu   Les touches Fn pour régler la luminosité ne fonctionnent pas ?" src="http://korben.info/wp-content/uploads/2013/04/brightness-indicator-shadow.jpg" width="213" height="376" title="Ubuntu   Les touches Fn pour régler la luminosité ne fonctionnent pas ?" /></a></p>
+<p> Grâce à ces raccourcis, au lieu d'utiliser une touche de fonction spécifique à l'ordinateur, vous pourrez par exemple faire des CTRL-F11 pour baisser la luminosité et des CTRL-F12 pour l'augmenter.</p>
+<p>Pour installer Indicator-Brightness, ouvrez un terminal et lancez les commandes suivantes :
+<ul>
+<li>sudo add-apt-repository ppa:indicator-brightness/ppa</li>
+<li>sudo apt-get update</li>
+<li>sudo apt-get install indicator-brightness</li>
+</ul>
+<p> ...et le tour sera joué !</p>
+<p><a href="http://www.omgubuntu.co.uk/2013/04/brightness-control-ubuntu">Source</a> <a href="http://wallbase.cc/wallpaper/204419">Photo</a></p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=R3HLq9A1D-k:Uda0CeQuKtg:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=R3HLq9A1D-k:Uda0CeQuKtg:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=R3HLq9A1D-k:Uda0CeQuKtg:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=R3HLq9A1D-k:Uda0CeQuKtg:GG6oivYVkFs"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=R3HLq9A1D-k:Uda0CeQuKtg:GG6oivYVkFs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=R3HLq9A1D-k:Uda0CeQuKtg:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=R3HLq9A1D-k:Uda0CeQuKtg:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=R3HLq9A1D-k:Uda0CeQuKtg:gIN9vFwOqvQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=R3HLq9A1D-k:Uda0CeQuKtg:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=7Q72WNTAKBA" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/KorbensBlog-UpgradeYourMind/~4/R3HLq9A1D-k" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://korben.info/touches-fn-luminosite-ne-fonctionnent-pas.html/feed</wfw:commentRss>
+		<slash:comments>7</slash:comments>
+		<feedburner:origLink>http://korben.info/touches-fn-luminosite-ne-fonctionnent-pas.html</feedburner:origLink></item>
+		<item>
+		<title>Thor – Le monde des ténèbres</title>
+		<link>http://feedproxy.google.com/~r/KorbensBlog-UpgradeYourMind/~3/jemHoLjgm6I/thor-2-bande-annonce.html</link>
+		<comments>http://korben.info/thor-2-bande-annonce.html#comments</comments>
+		<pubDate>Wed, 24 Apr 2013 05:44:15 +0000</pubDate>
+		<dc:creator>Korben</dc:creator>
+				<category><![CDATA[Film]]></category>
+
+		<guid isPermaLink="false">http://korben.info/?p=39565</guid>
+		<description><![CDATA[Que ce soit à tord ou à raison, Thor on l'adore, même si son cul n'est pas en or. Mais il ne faut pas oublier que pour sauver une fois de plus l'Humanité, notre mentor Thor tue et pas que des Ninjas puisqu'il combat contre le super vilain Malekith avec lequel le torchon brule, dans [...]]]></description>
+				<content:encoded><![CDATA[<p>Que ce soit à tord ou à raison, Thor on l'adore, même si son cul n'est pas en or. Mais il ne faut pas oublier que pour sauver une fois de plus l'Humanité, notre mentor Thor tue et pas que des Ninjas puisqu'il combat contre le super vilain Malekith avec lequel le torchon brule, dans cet épisode baptisé "<em>Le Monde des ténèbres</em>".</p>
+<p>Tout un périple aux chemins tortueux où notre héros fera la peau à tous ces tortionnaires qui veulent détruire notre belle planète. L'humour, tordant, est présent et vous ferez le plein d'action avec une crise cardiaque assurée si vous avez bu du café mal torréfié ou abusé de vos pilules de Médiator.</p>
+<p>Assurément, tel un raptor affamé de tortillas au fromage, notre Thor intornotional est tornitruant !</p>
+<p style="text-align: center;"><iframe src="http://www.youtube.com/embed/7p7rocHEecE?feature=player_embedded" height="360" width="640" allowfullscreen="" frameborder="0"></iframe></p>
+<p>Pour le voir, rendez-vous dans les salles obscures le 30 octobre 2013 (au lieu de récupérer un TS moisi sur vos sites de Torrent préférés ^^).</p>
+<p><a href="http://iwatchstuff.com/2013/04/thor-the-dark-world-trailer-our-favorite.php">Source</a></p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=jemHoLjgm6I:edyICrLuswg:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=jemHoLjgm6I:edyICrLuswg:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=jemHoLjgm6I:edyICrLuswg:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=jemHoLjgm6I:edyICrLuswg:GG6oivYVkFs"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=jemHoLjgm6I:edyICrLuswg:GG6oivYVkFs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=jemHoLjgm6I:edyICrLuswg:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=jemHoLjgm6I:edyICrLuswg:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=jemHoLjgm6I:edyICrLuswg:gIN9vFwOqvQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=jemHoLjgm6I:edyICrLuswg:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=7Q72WNTAKBA" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/KorbensBlog-UpgradeYourMind/~4/jemHoLjgm6I" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://korben.info/thor-2-bande-annonce.html/feed</wfw:commentRss>
+		<slash:comments>19</slash:comments>
+		<feedburner:origLink>http://korben.info/thor-2-bande-annonce.html</feedburner:origLink></item>
+		<item>
+		<title>Super Mario Ghostbusters</title>
+		<link>http://feedproxy.google.com/~r/KorbensBlog-UpgradeYourMind/~3/_d002qbPQ_A/super-mario-ghostbusters.html</link>
+		<comments>http://korben.info/super-mario-ghostbusters.html#comments</comments>
+		<pubDate>Tue, 23 Apr 2013 14:13:34 +0000</pubDate>
+		<dc:creator>Korben</dc:creator>
+				<category><![CDATA[Film]]></category>
+		<category><![CDATA[Jeux vidéos]]></category>
+		<category><![CDATA[Vidéo]]></category>
+
+		<guid isPermaLink="false">http://korben.info/?p=39552</guid>
+		<description><![CDATA[Quand les personnages Nintendo et Sega de notre jeunesse se prennent pour les Ghotsbusters, voici ce que ça donne : The New Super Mario Busters 2 Sympa ce mashup/cartoon non ? Si ça vous a plu, le premier est visible ici. PS : Et là, je repense à mon album Panini Ghostbusters que j'avais quand [...]]]></description>
+				<content:encoded><![CDATA[<p>Quand les personnages Nintendo et Sega de notre jeunesse se prennent pour les Ghotsbusters, voici ce que ça donne : The New Super Mario Busters 2
+<p style="text-align: center;"><iframe src="http://www.youtube.com/embed/9JWCvjA6Wic?feature=player_embedded" height="360" width="640" allowfullscreen="" frameborder="0"></iframe></p>
+<p> Sympa ce mashup/cartoon non ?</p>
+<p>Si ça vous a plu, le premier <a href="http://www.youtube.com/watch?v=srXN-1DUd3Q">est visible ici</a>.</p>
+<p>PS : Et là, je repense à mon album Panini Ghostbusters que j'avais quand j'étais petit et je me tape un bad trip nostalgique. Ouin.</p>
+<p><a href="http://www.geeksaresexy.net/2013/04/22/the-new-super-mario-busters-2-a-ghostbusters-2-super-mario-bros-mashup-video/">Source</a></p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=_d002qbPQ_A:uvcnXhEQPZ0:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=_d002qbPQ_A:uvcnXhEQPZ0:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=_d002qbPQ_A:uvcnXhEQPZ0:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=_d002qbPQ_A:uvcnXhEQPZ0:GG6oivYVkFs"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=_d002qbPQ_A:uvcnXhEQPZ0:GG6oivYVkFs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=_d002qbPQ_A:uvcnXhEQPZ0:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=_d002qbPQ_A:uvcnXhEQPZ0:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=_d002qbPQ_A:uvcnXhEQPZ0:gIN9vFwOqvQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=_d002qbPQ_A:uvcnXhEQPZ0:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=7Q72WNTAKBA" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/KorbensBlog-UpgradeYourMind/~4/_d002qbPQ_A" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://korben.info/super-mario-ghostbusters.html/feed</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		<feedburner:origLink>http://korben.info/super-mario-ghostbusters.html</feedburner:origLink></item>
+		<item>
+		<title>The Pirate Bay aux petits oignons</title>
+		<link>http://feedproxy.google.com/~r/KorbensBlog-UpgradeYourMind/~3/qoVNyvXhm58/the-pirate-bay-aux-petits-oignons.html</link>
+		<comments>http://korben.info/the-pirate-bay-aux-petits-oignons.html#comments</comments>
+		<pubDate>Tue, 23 Apr 2013 13:25:12 +0000</pubDate>
+		<dc:creator>Korben</dc:creator>
+				<category><![CDATA[Download]]></category>
+		<category><![CDATA[service web]]></category>
+
+		<guid isPermaLink="false">http://korben.info/?p=39515</guid>
+		<description><![CDATA[The Pirate Bay Cleaner est un userscript pour Chrome et Firefox (avec Greasemonkey) qui une fois installé permet de faire un peu de tunning sur le plus célèbre des sites de pirates. Première chose qu'on remarque après l'install, c'est que par défaut, on passe en HTTPS. Seconde chose, ce sont les 2 icônes qui apparaissent [...]]]></description>
+				<content:encoded><![CDATA[<p><strong>The Pirate Bay Cleaner</strong> est un userscript pour Chrome et Firefox (avec Greasemonkey) qui une fois installé permet de faire un peu de tunning sur le plus célèbre des sites de pirates.</p>
+<p>Première chose qu'on remarque après l'install, c'est que par défaut, on passe en HTTPS. Seconde chose, ce sont les 2 icônes qui apparaissent dans le coin en haut à droite. La première est un accès vers uTorrent Remote qui permet de se connecter à un client uTorrent à distance, et la seconde est le détail des options disponibles.</p>
+<p style="text-align: center;"><a href="http://korben.info/wp-content/uploads/2013/04/tpbscript.jpg"><img class="aligncenter size-full wp-image-39542" alt="tpbscript The Pirate Bay aux petits oignons" src="http://korben.info/wp-content/uploads/2013/04/tpbscript.jpg" width="650" height="323" title="The Pirate Bay aux petits oignons" /></a></p>
+<p>Voici celles qui ont retenu mon attention :</p>
+<ul>
+<li>Affichage de recherches identiques sur d'autres sites de torrent</li>
+<li>Possibilité de changer les codes couleurs des dates d'ajouts</li>
+<li>Possibilité de masquer les torrents qui n'ont pas été validés (trusted) par les membres</li>
+<li>Possibilité de masquer certains torrents en fonction de mots clés que vous indiquerez</li>
+<li>Tri automatique des listes</li>
+<li>Un thème Dark</li>
+<li>Et utilisation de Google comme moteur de recherche</li>
+<li>....etc.,etc.</li>
+</ul>
+<p>Tout est détaillé sur la capture ci-dessous.</p>
+<p style="text-align: center;"><a href="http://korben.info/wp-content/uploads/2013/04/options.jpg"><img class="aligncenter size-full wp-image-39529" alt="options The Pirate Bay aux petits oignons" src="http://korben.info/wp-content/uploads/2013/04/options.jpg" width="650" height="656" title="The Pirate Bay aux petits oignons" /></a></p>
+<p>&nbsp;</p>
+<p>Vous pouvez <a href="http://userscripts.org/scripts/show/145020">trouver le script ici</a>.</p>
+<p><a href="http://www.ghacks.net/2013/04/23/the-pirate-bay-cleaner-script-improves-the-torrent-sites-accessibility/">Source</a></p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=qoVNyvXhm58:Rm5WONGMwoU:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=qoVNyvXhm58:Rm5WONGMwoU:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=qoVNyvXhm58:Rm5WONGMwoU:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=qoVNyvXhm58:Rm5WONGMwoU:GG6oivYVkFs"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=qoVNyvXhm58:Rm5WONGMwoU:GG6oivYVkFs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=qoVNyvXhm58:Rm5WONGMwoU:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=qoVNyvXhm58:Rm5WONGMwoU:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=qoVNyvXhm58:Rm5WONGMwoU:gIN9vFwOqvQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=qoVNyvXhm58:Rm5WONGMwoU:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=7Q72WNTAKBA" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/KorbensBlog-UpgradeYourMind/~4/qoVNyvXhm58" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://korben.info/the-pirate-bay-aux-petits-oignons.html/feed</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		<feedburner:origLink>http://korben.info/the-pirate-bay-aux-petits-oignons.html</feedburner:origLink></item>
+		<item>
+		<title>Auto-hébergez facilement votre site avec Qy.Share</title>
+		<link>http://feedproxy.google.com/~r/KorbensBlog-UpgradeYourMind/~3/UiNrCATi35s/qyshare.html</link>
+		<comments>http://korben.info/qyshare.html#comments</comments>
+		<pubDate>Tue, 23 Apr 2013 13:00:05 +0000</pubDate>
+		<dc:creator>Korben</dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Mac OSX]]></category>
+		<category><![CDATA[Windows]]></category>
+
+		<guid isPermaLink="false">http://korben.info/?p=39508</guid>
+		<description><![CDATA[À l'heure où l'auto-hebergement devient un mode de vie pour la plupart d'entre nous, de nombreux outils passionnants et abordables commencent à voir le jour. L'un d'entre eux s'appelle Qy.Share et je suis sûr qu'il va vous plaire. Il s'agit d'un soft qui permet très facilement (et j'insiste sur le TRÈS) de mettre en place [...]]]></description>
+				<content:encoded><![CDATA[<p>À l'heure où l'auto-hebergement devient un mode de vie pour la plupart d'entre nous, de nombreux outils passionnants et abordables commencent à voir le jour.</p>
+<p>L'un d'entre eux s'appelle <strong><a href="http://www.qyshare.com/">Qy.Share</a></strong> et je suis sûr qu'il va vous plaire. Il s'agit d'un soft qui permet très facilement (et j'insiste sur le TRÈS) de mettre en place un site web autohébergé chez vous.</p>
+<p>Pas de prise de tête avec Apache, MySQL, etc.. En réalité, Qy.Share est une machine virtuelle (virtualbox) qui permet de faire tourner un WordPress en local sur votre ordinateur. Ce WordPress est bien évidemment accessible à tous, si vous pensez à ouvrir le port 80 de votre box ADSL et Qy.Share vous permet d'avoir une adresse xxxx.qyshare.com publique qui pointe automatiquement vers votre adresse IP.</p>
+<p style="text-align: center;"><a href="http://korben.info/wp-content/uploads/2013/04/virtu.jpg"><img class="aligncenter  wp-image-39509" alt="virtu Auto hébergez facilement votre site avec Qy.Share" src="http://korben.info/wp-content/uploads/2013/04/virtu.jpg" width="650" title="Auto hébergez facilement votre site avec Qy.Share" /></a></p>
+<p style="text-align: center;"><a href="http://korben.info/wp-content/uploads/2013/04/setup.jpg"><img alt="setup Auto hébergez facilement votre site avec Qy.Share" src="http://korben.info/wp-content/uploads/2013/04/setup.jpg" width="650" height="740" title="Auto hébergez facilement votre site avec Qy.Share" /></a></p>
+<p>Ce qui est plutôt cool avec Qy.Share, ce sont les finitions. On est guidé dans tout le processus d'install, et le WordPress intégré dispose de plusieurs petits plugins bien pratiques pour gérer vos membres, vos photos...etc. Vous pouvez bien évidemment en ajouter d'autres. Même chose avec les thèmes.</p>
+<p style="text-align: center;"><a href="http://korben.info/wp-content/uploads/2013/04/plugins.jpg"><img class="aligncenter size-full wp-image-39510" alt="plugins Auto hébergez facilement votre site avec Qy.Share" src="http://korben.info/wp-content/uploads/2013/04/plugins.jpg" width="366" height="603" title="Auto hébergez facilement votre site avec Qy.Share" /></a></p>
+<p>L'avantage d'un tel système est double. Premièrement, vous pouvez héberger un petit site sans aucuns frais de serveur. Évidemment, si le nombre de visites augmente sur le site, votre petite connexion domestique risque de ne pas suivre. L'autre avantage, c'est que vous restez maitre de vos données. Si l'envie vous prend de mettre hors ligne le site, il suffit d'arrêter la machine virtuelle Qy.Share. Tout reste chez vous.</p>
+<p>Qy.Share vous permet aussi de créer des comptes utilisateur. Ainsi seules les personnes autorisées auront le droit de voir votre site. Évidemment, pour que ce dernier soit toujours accessible, vous devrez avoir une machine qui tourne en permanence... Windows, Linux ou Mac, à vous de voir puisque Qy.Share est dispo sur tous ces OS.</p>
+<p>A noter que ce projet est communautaire, donc chacun peut y participer !</p>
+<p>En tout cas, il s'agit là d'un excellent travail d'intégration logicielle qui va permettre au plus grand nombre de se lancer dans l'aventure du "<em>Je créé mon site web tout seul comme un grand</em>". Je pense aussi bien aux blogueurs qui débutent, qu'aux membre d'une famille qui veulent rester en contact, qu'à une PME qui souhaite faire un petite site interne pour ses employés.</p>
+<p>Bref, que du bonheur !!!</p>
+<p><a href="http://www.qyshare.com/">Toutes les infos sur Qy.Share sont ici</a>.</p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=UiNrCATi35s:F4XRKW3Wu-g:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=UiNrCATi35s:F4XRKW3Wu-g:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=UiNrCATi35s:F4XRKW3Wu-g:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=UiNrCATi35s:F4XRKW3Wu-g:GG6oivYVkFs"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=UiNrCATi35s:F4XRKW3Wu-g:GG6oivYVkFs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=UiNrCATi35s:F4XRKW3Wu-g:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=UiNrCATi35s:F4XRKW3Wu-g:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=UiNrCATi35s:F4XRKW3Wu-g:gIN9vFwOqvQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=UiNrCATi35s:F4XRKW3Wu-g:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=7Q72WNTAKBA" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/KorbensBlog-UpgradeYourMind/~4/UiNrCATi35s" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://korben.info/qyshare.html/feed</wfw:commentRss>
+		<slash:comments>21</slash:comments>
+		<feedburner:origLink>http://korben.info/qyshare.html</feedburner:origLink></item>
+		<item>
+		<title>Vous êtes riche et vous ne le savez même pas !</title>
+		<link>http://feedproxy.google.com/~r/KorbensBlog-UpgradeYourMind/~3/C6yl622Cv8M/vous-etes-riche-et-vous-ne-le-savez-meme-pas.html</link>
+		<comments>http://korben.info/vous-etes-riche-et-vous-ne-le-savez-meme-pas.html#comments</comments>
+		<pubDate>Mon, 22 Apr 2013 15:30:40 +0000</pubDate>
+		<dc:creator>Korben</dc:creator>
+				<category><![CDATA[Infos]]></category>
+
+		<guid isPermaLink="false">http://korben.info/?p=39496</guid>
+		<description><![CDATA[On est toujours le pauvre de quelqu'un... Alors autant relativiser ! C'est-ce que propose ce site débile qui permet de savoir si vous êtes riche ou pas. Pour cela, sélectionnez votre pays (France par exemple), et entrez votre revenu annuel (en Euro). Et vous obtiendrez alors votre classement dans le top mondial des gens riches [...]]]></description>
+				<content:encoded><![CDATA[<p>On est toujours le pauvre de quelqu'un... Alors autant relativiser ! C'est-ce que propose <a href="http://globalrichlist.com/">ce site débile</a> qui permet de savoir si vous êtes riche ou pas.</p>
+<p>Pour cela, sélectionnez votre pays (France par exemple), et entrez votre revenu annuel (en Euro).</p>
+<p>Et vous obtiendrez alors votre classement dans le top mondial des gens riches ou pas de ce monde et vous connaitrez la quantité de petits sous-sous que vous gagnez en 1h.</p>
+<p style="text-align: center;"><a href="http://korben.info/wp-content/uploads/2013/04/riche.jpg"><img class="aligncenter size-full wp-image-39497" alt="riche Vous êtes riche et vous ne le savez même pas !" src="http://korben.info/wp-content/uploads/2013/04/riche.jpg" width="650" height="458" title="Vous êtes riche et vous ne le savez même pas !" /></a></p>
+<p>Ouiiiiii, je sais, tout est relatif, mais on y réfléchira peut être à 2 fois avant d'aller scander dans la rue que nous faisons partie des 99% ^^</p>
+<p>Bon, faut que je vous laisse. Maintenant que je sais que je suis riche, je vais aller ouvrir un compte en Suisse et oublier de le déclarer au fisc.</p>
+<p><a href="http://wallbase.cc/wallpaper/300071">Photo</a> <a href="http://www.neowin.net/news/how-rich-are-you-compared-to-the-rest-of-the-world">Source</a></p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=C6yl622Cv8M:2LP9KsCNqN4:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=C6yl622Cv8M:2LP9KsCNqN4:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=C6yl622Cv8M:2LP9KsCNqN4:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=C6yl622Cv8M:2LP9KsCNqN4:GG6oivYVkFs"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=C6yl622Cv8M:2LP9KsCNqN4:GG6oivYVkFs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=C6yl622Cv8M:2LP9KsCNqN4:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=C6yl622Cv8M:2LP9KsCNqN4:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=C6yl622Cv8M:2LP9KsCNqN4:gIN9vFwOqvQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=C6yl622Cv8M:2LP9KsCNqN4:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=7Q72WNTAKBA" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/KorbensBlog-UpgradeYourMind/~4/C6yl622Cv8M" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://korben.info/vous-etes-riche-et-vous-ne-le-savez-meme-pas.html/feed</wfw:commentRss>
+		<slash:comments>46</slash:comments>
+		<feedburner:origLink>http://korben.info/vous-etes-riche-et-vous-ne-le-savez-meme-pas.html</feedburner:origLink></item>
+		<item>
+		<title>Kasperksy Antivirus 2013 gratuit pendant 1 an</title>
+		<link>http://feedproxy.google.com/~r/KorbensBlog-UpgradeYourMind/~3/QBHNKE8FBIY/kasperksy-antivirus-2013-gratuit.html</link>
+		<comments>http://korben.info/kasperksy-antivirus-2013-gratuit.html#comments</comments>
+		<pubDate>Mon, 22 Apr 2013 13:30:03 +0000</pubDate>
+		<dc:creator>Korben</dc:creator>
+				<category><![CDATA[Infos]]></category>
+		<category><![CDATA[Sécurité]]></category>
+		<category><![CDATA[Windows]]></category>
+
+		<guid isPermaLink="false">http://korben.info/?p=39481</guid>
+		<description><![CDATA[Voici une astuce que j'ai trouvé ici qui va vous permettre de tester l'antivirus Kaspersky pendant 1 an. Ils sont sympas chez ASUS, puisque pour tout ordinateur Republic of Gamers (ROG), ils offrent 1 an d'antivirus gratuit. Et un très bon puisqu'il s'agit de Kaspersky Antivirus 2013. Évidemment, si vous l'installez et que vous n'avez [...]]]></description>
+				<content:encoded><![CDATA[<p>Voici une astuce que <a href="http://www.tipandtrick.net/kapersky-antivirus-2013-1-full-year-protection/">j'ai trouvé ici</a> qui va vous permettre de tester l'antivirus Kaspersky pendant 1 an.</p>
+<p>Ils sont sympas chez ASUS, puisque pour tout ordinateur Republic of Gamers (ROG), ils offrent 1 an d'antivirus gratuit. Et un très bon puisqu'il s'agit de <strong>Kaspersky Antivirus 2013</strong>.</p>
+<p style="text-align: left;">Évidemment, si vous l'installez et que vous n'avez pas de carte mère ASUS, vous aurez un message d'erreur. Mais c'était sans compter sur cette petite bidouille qui permet de faire fonctionner l'offre promotionnelle sur toutes les machines.</p>
+<p style="text-align: center;"><a href="http://korben.info/wp-content/uploads/2013/04/rog.jpg"><img class="size-full wp-image-39490 aligncenter" alt="rog Kasperksy Antivirus 2013 gratuit pendant 1 an" src="http://korben.info/wp-content/uploads/2013/04/rog.jpg" width="650" height="354" title="Kasperksy Antivirus 2013 gratuit pendant 1 an" /></a></p>
+<p style="text-align: center;"> <a href="http://korben.info/wp-content/uploads/2013/04/kav.png"><img class="aligncenter size-full wp-image-39492" alt="kav Kasperksy Antivirus 2013 gratuit pendant 1 an" src="http://korben.info/wp-content/uploads/2013/04/kav.png" width="650" height="490" title="Kasperksy Antivirus 2013 gratuit pendant 1 an" /></a></p>
+<p>C'est parti pour 365 jours de licence gratuite !</p>
+<p>Edit : <em>Il paraitrait d'après les juges/avocats/policiers/experts en piratage qui ont laissé des commentaires suite à cet article qu'utiliser une offre d'essai comme celle-ci est illégal. Je ne le vois / voyais pas du tout comme ça. Du coup, dans le doute, afin de ne pas me faire assassiner par la mafia russe, j'efface les explications. Vous pouvez tout retrouver dans l'article source initial si vous voulez en savoir plus. Bisous.</em></p>
+<p><a href="http://www.tipandtrick.net/kapersky-antivirus-2013-1-full-year-protection/">Source</a></p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=QBHNKE8FBIY:E7unfhmr1Jc:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=QBHNKE8FBIY:E7unfhmr1Jc:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=QBHNKE8FBIY:E7unfhmr1Jc:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=QBHNKE8FBIY:E7unfhmr1Jc:GG6oivYVkFs"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=QBHNKE8FBIY:E7unfhmr1Jc:GG6oivYVkFs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=QBHNKE8FBIY:E7unfhmr1Jc:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=QBHNKE8FBIY:E7unfhmr1Jc:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=QBHNKE8FBIY:E7unfhmr1Jc:gIN9vFwOqvQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=QBHNKE8FBIY:E7unfhmr1Jc:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=7Q72WNTAKBA" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/KorbensBlog-UpgradeYourMind/~4/QBHNKE8FBIY" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://korben.info/kasperksy-antivirus-2013-gratuit.html/feed</wfw:commentRss>
+		<slash:comments>48</slash:comments>
+		<feedburner:origLink>http://korben.info/kasperksy-antivirus-2013-gratuit.html</feedburner:origLink></item>
+		<item>
+		<title>Une corbeille pour Android</title>
+		<link>http://feedproxy.google.com/~r/KorbensBlog-UpgradeYourMind/~3/VheJsoz5qcY/une-corbeille-pour-android.html</link>
+		<comments>http://korben.info/une-corbeille-pour-android.html#comments</comments>
+		<pubDate>Mon, 22 Apr 2013 11:30:03 +0000</pubDate>
+		<dc:creator>Korben</dc:creator>
+				<category><![CDATA[Android]]></category>
+
+		<guid isPermaLink="false">http://korben.info/?p=39471</guid>
+		<description><![CDATA[Un truc super con sur Android, c'est qu'il n'y a pas de "corbeille". Oui, on n'est pas sous Windows... Quand on supprime un fichier, c'est définitif, à moins d'utiliser des bons outils de récupération de données. Galère quoi.... Heureusement, pour tous ceux qui aiment les petites corbeilles et qui ont le delete impulsif, il existe [...]]]></description>
+				<content:encoded><![CDATA[<p>Un truc super con sur Android, c'est qu'il n'y a pas de "corbeille". Oui, on n'est pas sous Windows... Quand on supprime un fichier, c'est définitif, à moins d'utiliser <a href="http://korben.info/comment-recuperer-fichiers-supprimes-android.html">des bons outils de récupération de données</a>.</p>
+<p>Galère quoi....</p>
+<p>Heureusement, pour tous ceux qui aiment les petites corbeilles et qui ont le delete impulsif, il existe une application pour Android qui s'appelle <strong><a href="https://play.google.com/store/apps/details?id=com.baloota.dumpster&amp;hl=fr">Dumpster</a></strong>. Cette application gratuite tourne en tâche de fond et intercepte toutes les images, fichiers audios, vidéo, PDF, TXT, DOC...etc. que vous supprimez.</p>
+<p style="text-align: center;"><a href="http://korben.info/wp-content/uploads/2013/04/Screenshot_2013-04-22-10-06-13.png"><img alt="Screenshot 2013 04 22 10 06 13 Une corbeille pour Android" src="http://korben.info/wp-content/uploads/2013/04/Screenshot_2013-04-22-10-06-13.png" width="300" height="533" title="Une corbeille pour Android" /></a></p>
+<p>Vous pourrez alors restaurer le fichier de votre choix en cas de suppression malencontreuse. Par exemple, Mini-moi qui est toujours à l'affut d'un épisode de Oui-Oui ou de photos de lui sur mon téléphone, pourras encore appeler des gens au pif, mais ne fera plus de suppression malencontreuse de mes photos avec des petits pouces boudinés.</p>
+<p>Dumpster est configurable et vous pouvez indiquer une durée de conservation de vos fichiers. Passé ce délai, ils seront définitivement supprimés.</p>
+<p style="text-align: center;"><a href="http://korben.info/wp-content/uploads/2013/04/Screenshot_2013-04-22-10-06-19.png"><img class="aligncenter size-full wp-image-39473" alt="Screenshot 2013 04 22 10 06 19 Une corbeille pour Android" src="http://korben.info/wp-content/uploads/2013/04/Screenshot_2013-04-22-10-06-19.png" width="300" height="533" title="Une corbeille pour Android" /></a></p>
+<p>Ah et le plus beau, c'est que vous n'avez pas besoin d'être root sur votre téléphone pour profiter de Dumpster (mais être root c'est quand même mieux ^^)</p>
+<p>Mille merci à <a href="http://twitter.com/au_taquet">Paul</a> pour cette découverte ! A noter que dans les prochaines mise à jour de Dumpster, il est prévu une récupération des SMS et des contacts effacés. \o/</p>
+<p><a href="http://wallbase.cc/wallpaper/1910098">Photo</a></p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=VheJsoz5qcY:WRST46-czrg:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=VheJsoz5qcY:WRST46-czrg:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=VheJsoz5qcY:WRST46-czrg:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=VheJsoz5qcY:WRST46-czrg:GG6oivYVkFs"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=VheJsoz5qcY:WRST46-czrg:GG6oivYVkFs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=VheJsoz5qcY:WRST46-czrg:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=VheJsoz5qcY:WRST46-czrg:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=VheJsoz5qcY:WRST46-czrg:gIN9vFwOqvQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=VheJsoz5qcY:WRST46-czrg:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=7Q72WNTAKBA" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/KorbensBlog-UpgradeYourMind/~4/VheJsoz5qcY" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://korben.info/une-corbeille-pour-android.html/feed</wfw:commentRss>
+		<slash:comments>13</slash:comments>
+		<feedburner:origLink>http://korben.info/une-corbeille-pour-android.html</feedburner:origLink></item>
+		<item>
+		<title>Iron Man 3 – Extraits du tournage</title>
+		<link>http://feedproxy.google.com/~r/KorbensBlog-UpgradeYourMind/~3/_KvQ09gR7nQ/iron-man-3-extraits-du-tournage.html</link>
+		<comments>http://korben.info/iron-man-3-extraits-du-tournage.html#comments</comments>
+		<pubDate>Mon, 22 Apr 2013 10:29:59 +0000</pubDate>
+		<dc:creator>Korben</dc:creator>
+				<category><![CDATA[Film]]></category>
+
+		<guid isPermaLink="false">http://korben.info/?p=39502</guid>
+		<description><![CDATA[Iron Man 3 sort mercredi, du coup, je me suis dit que cette petite vidéo regroupant des petits bouts de tournage du film avec Robert Downey Jr., Gwyneth Paltrow et Don Cheadle allait vous plaire. Bon, on n'entend pas les dialogues et les extraits sont trop courts pour vraiment y voir du spoil mais on [...]]]></description>
+				<content:encoded><![CDATA[<p>Iron Man 3 sort mercredi, du coup, je me suis dit que cette petite vidéo regroupant des petits bouts de tournage du film avec Robert Downey Jr., Gwyneth Paltrow et Don Cheadle allait vous plaire.</p>
+<p>Bon, on n'entend pas les dialogues et les extraits sont trop courts pour vraiment y voir du spoil mais on voit pas mal de scène, ce qui pourrait gâcher quelques surprises... Donc si vous avez peur d'avoir une sensation de déjà-vu sur certaines scènes, ne regardez pas cette vidéo.</p>
+<p>Pour les autres, ceux qui s'en moquent, c'est ici :
+<p style="text-align: center;"><iframe src="http://www.youtube.com/embed/AHHsGTvr8HY?feature=player_embedded" height="360" width="640" allowfullscreen="" frameborder="0"></iframe></p>
+<p> <a href="http://gizmodo.com/5995068/iron-man-3-behind+the+scenes-footage-is-six-minutes-of-pure-awesome">Source</a></p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=_KvQ09gR7nQ:6oALnrojG-4:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=_KvQ09gR7nQ:6oALnrojG-4:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=_KvQ09gR7nQ:6oALnrojG-4:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=_KvQ09gR7nQ:6oALnrojG-4:GG6oivYVkFs"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=_KvQ09gR7nQ:6oALnrojG-4:GG6oivYVkFs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=_KvQ09gR7nQ:6oALnrojG-4:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=_KvQ09gR7nQ:6oALnrojG-4:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=_KvQ09gR7nQ:6oALnrojG-4:gIN9vFwOqvQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=_KvQ09gR7nQ:6oALnrojG-4:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=7Q72WNTAKBA" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/KorbensBlog-UpgradeYourMind/~4/_KvQ09gR7nQ" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://korben.info/iron-man-3-extraits-du-tournage.html/feed</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		<feedburner:origLink>http://korben.info/iron-man-3-extraits-du-tournage.html</feedburner:origLink></item>
+		<item>
+		<title>Le Feedly pour tous</title>
+		<link>http://feedproxy.google.com/~r/KorbensBlog-UpgradeYourMind/~3/QRy2qU3aVPI/le-feedly-pour-tous.html</link>
+		<comments>http://korben.info/le-feedly-pour-tous.html#comments</comments>
+		<pubDate>Mon, 22 Apr 2013 08:30:00 +0000</pubDate>
+		<dc:creator>Korben</dc:creator>
+				<category><![CDATA[Navigateur]]></category>
+		<category><![CDATA[service web]]></category>
+
+		<guid isPermaLink="false">http://korben.info/?p=39467</guid>
+		<description><![CDATA[Même si ce n'est pas le cas pour tout le monde, en tant qu'être humain, nous sommes majoritairement réfractaires au changement. On n'y peut rien, il parait que c'est naturel... Les manifs de ces dernières semaines en sont un bel exemple ^^ À juste titre, l'annonce de la fermeture de Google Reader vous a probablement [...]]]></description>
+				<content:encoded><![CDATA[<p>Même si ce n'est pas le cas pour tout le monde, en tant qu'être humain, nous sommes majoritairement réfractaires au changement. On n'y peut rien, il parait que c'est naturel... Les manifs de ces <a href="http://fr.wikipedia.org/wiki/Moyen_%C3%82ge">dernières semaines</a> en sont un bel exemple ^^</p>
+<p>À juste titre, l'annonce de la fermeture de Google Reader vous a probablement dévasté plus que vous ne l'auriez imaginé. Vous vous sentez déjà coupé du monde, à la ramasse et les plus barjots se sont même mis à lire des blogs tech en français.</p>
+<p>Aucun outil ne vous convient, pas même celui que je vous ai vivement recommandé à plusieurs reprises au cours de ces dernières années et qui s'appelle <a href="http://korben.info/feedly.html">Feedly</a>.</p>
+<p>Alors vous priez à genoux dans la rue, tard la nuit, en espérant faire plier Google pour que celui-ci changer d'avis à la dernière minute.</p>
+<p>Chers amis, levez-vous, séchez vos larmes et réjouissez-vous au plus haut des Internets ! Car Feedly est juste et bon et vous indique le véritable chemin à suivre. Tout d’abord, sachez que nativement dans Feedly, il y a une option qui permet de présenter sous forme de liste assez resserrée les articles de vos flux RSS. Ils appellent ça le "<em>Title only view</em>".</p>
+<p style="text-align: center;"><a href="http://korben.info/wp-content/uploads/2013/04/feedly.jpg"><img class="aligncenter size-full wp-image-39468" alt="feedly Le Feedly pour tous" src="http://korben.info/wp-content/uploads/2013/04/feedly.jpg" width="650" height="166" title="Le Feedly pour tous" /></a></p>
+<p>Mais si, même ce mode ne vous vous convient pas (les voies du flux RSS sont impénétrables, à ce qu'on dit), j'ai peut être un truc pour vous. Il s'agit d'une extension pour Chrome qui relookera entièrement Feedly, faisant disparaitre la zone de droite et vous faisant enfin sentir à la maison, comme si vous étiez encore sur Google Reader.</p>
+<p style="text-align: center;"><a href="http://korben.info/wp-content/uploads/2013/04/feedly2.jpg"><img class="aligncenter size-full wp-image-39469" alt="feedly2 Le Feedly pour tous" src="http://korben.info/wp-content/uploads/2013/04/feedly2.jpg" width="650" height="368" title="Le Feedly pour tous" /></a></p>
+<p>Ainsi vous conserverez vos bonnes vieilles traditions et vous pourrez "veiller" à nouveau toute la nuit, mais cette fois devant un PC pendant que vos gosses seront au chaud dans leur lit en train de faire un gros dodo.</p>
+<p><a href="https://chrome.google.com/webstore/detail/feedly-reader/eclfpdflffnadciiehipiknmahlokchp">Feedly Reader pour Chrome est à télécharger ici</a>.</p>
+<p>Allez en pet !</p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=QRy2qU3aVPI:j5LOWokvB0I:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=QRy2qU3aVPI:j5LOWokvB0I:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=QRy2qU3aVPI:j5LOWokvB0I:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=QRy2qU3aVPI:j5LOWokvB0I:GG6oivYVkFs"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=QRy2qU3aVPI:j5LOWokvB0I:GG6oivYVkFs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=QRy2qU3aVPI:j5LOWokvB0I:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=QRy2qU3aVPI:j5LOWokvB0I:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=QRy2qU3aVPI:j5LOWokvB0I:gIN9vFwOqvQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=QRy2qU3aVPI:j5LOWokvB0I:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=7Q72WNTAKBA" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/KorbensBlog-UpgradeYourMind/~4/QRy2qU3aVPI" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://korben.info/le-feedly-pour-tous.html/feed</wfw:commentRss>
+		<slash:comments>27</slash:comments>
+		<feedburner:origLink>http://korben.info/le-feedly-pour-tous.html</feedburner:origLink></item>
+		<item>
+		<title>Synchronisez sur Dropbox les préférences de vos applications sous Mac</title>
+		<link>http://feedproxy.google.com/~r/KorbensBlog-UpgradeYourMind/~3/PfatUYTXu5A/synchronisez-sur-dropbox-les-preferences-de-vos-applications-sous-mac.html</link>
+		<comments>http://korben.info/synchronisez-sur-dropbox-les-preferences-de-vos-applications-sous-mac.html#comments</comments>
+		<pubDate>Mon, 22 Apr 2013 07:30:09 +0000</pubDate>
+		<dc:creator>Korben</dc:creator>
+				<category><![CDATA[Développement]]></category>
+		<category><![CDATA[Infos]]></category>
+		<category><![CDATA[Mac OSX]]></category>
+
+		<guid isPermaLink="false">http://korben.info/?p=39456</guid>
+		<description><![CDATA[Si vous êtes utilisateur de Mac OSX et développeur, vous avez probablement configuré chacune de vos applications de travail au petit oignons... Bash, Emacs, Rails, Subversion, Git...etc. Seul hic, en cas de plantage, vous êtes bon pour recommencer. La solution serait donc de sauvegarder les paramètres de toutes vos applications mais aussi de les synchroniser [...]]]></description>
+				<content:encoded><![CDATA[<p>Si vous êtes utilisateur de Mac OSX et développeur, vous avez probablement configuré chacune de vos applications de travail au petit oignons... Bash, Emacs, Rails, Subversion, Git...etc.</p>
+<p>Seul hic, en cas de plantage, vous êtes bon pour recommencer. La solution serait donc de sauvegarder les paramètres de toutes vos applications mais aussi de les synchroniser régulièrement, pour ensuite pouvoir les restaurer.</p>
+<p>C'est ce que permet <a href="https://github.com/lra/mackup">Mackup</a>, un script Python qui sauvegarde la config de vos applications OSX sur Dropbox et qui vous permet de restaurer ensuite tout ça, très facilement.</p>
+<p>Voici la liste des applications supportées par Mackup :</p>
+<ul>
+<li><a href="http://www.gnu.org/software/bash/">Bash</a></li>
+<li><a href="https://github.com/boto/boto">Boto</a></li>
+<li><a href="http://byobu.co/">Byobu</a></li>
+<li><a href="http://www.gnu.org/software/emacs/">Emacs</a></li>
+<li><a href="http://ridiculousfish.com/shell/">Fish</a></li>
+<li><a href="http://git-scm.com/">Git</a></li>
+<li><a href="http://www.gnupg.org/">GnuPG</a></li>
+<li><a href="http://limechat.net/mac/">LimeChat</a></li>
+<li><a href="http://www.apple.com/osx/">MacOSX</a></li>
+<li><a href="https://code.google.com/p/macvim/">MacVim</a></li>
+<li><a href="http://mercurial.selenic.com/">Mercurial</a></li>
+<li><a href="https://github.com/robbyrussell/oh-my-zsh">Oh My Zsh</a></li>
+<li><a href="http://www.openssh.org/">OpenSSH</a></li>
+<li><a href="http://5digits.org/pentadactyl/">Pentadactyl</a></li>
+<li><a href="http://pow.cx/">Pow</a></li>
+<li><a href="http://rubyonrails.org/">Rails</a></li>
+<li><a href="http://ruby-lang.org/">Ruby</a></li>
+<li><a href="https://gist.github.com/fnichol/1912050">Ruby Version</a></li>
+<li><a href="http://s3tools.org/s3cmd">S3cmd</a></li>
+<li><a href="http://www.sequelpro.com/">Sequel Pro</a></li>
+<li><a href="http://www.sublimetext.com/">Sublime Text 2</a></li>
+<li><a href="http://subversion.apache.org/">Subversion</a></li>
+<li><a href="http://www.vim.org/">Vim</a></li>
+<li><a href="http://www.vimperator.org/vimperator">Vimperator</a></li>
+<li><a href="http://www.x.org/">X11</a></li>
+<li><a href="http://www.xemacs.org/">XEmacs</a></li>
+<li><a href="http://zsh.sourceforge.net/">Zsh</a></li>
+</ul>
+<p>Pour utiliser Mackup, rien de plus simple... Il suffit d'entrer les commandes suivantes.</p>
+<ul>
+<li>curl -o mackup https://raw.github.com/lra/mackup/master/mackup.py</li>
+<li>chmod +x mackup</li>
+<li>./mackup backup</li>
+</ul>
+<p>A vous ensuite de rajouter ça dans un petit crontab pour avoir une synchronisation régulière avec Dropbox.</p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=PfatUYTXu5A:5WrgX-ZHaWU:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=PfatUYTXu5A:5WrgX-ZHaWU:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=PfatUYTXu5A:5WrgX-ZHaWU:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=PfatUYTXu5A:5WrgX-ZHaWU:GG6oivYVkFs"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=PfatUYTXu5A:5WrgX-ZHaWU:GG6oivYVkFs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=PfatUYTXu5A:5WrgX-ZHaWU:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=PfatUYTXu5A:5WrgX-ZHaWU:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=PfatUYTXu5A:5WrgX-ZHaWU:gIN9vFwOqvQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=PfatUYTXu5A:5WrgX-ZHaWU:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=7Q72WNTAKBA" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/KorbensBlog-UpgradeYourMind/~4/PfatUYTXu5A" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://korben.info/synchronisez-sur-dropbox-les-preferences-de-vos-applications-sous-mac.html/feed</wfw:commentRss>
+		<slash:comments>7</slash:comments>
+		<feedburner:origLink>http://korben.info/synchronisez-sur-dropbox-les-preferences-de-vos-applications-sous-mac.html</feedburner:origLink></item>
+		<item>
+		<title>Un client Linux pour le chat Facebook</title>
+		<link>http://feedproxy.google.com/~r/KorbensBlog-UpgradeYourMind/~3/HS_Nn99pL7Y/chat-facebook-client-linux.html</link>
+		<comments>http://korben.info/chat-facebook-client-linux.html#comments</comments>
+		<pubDate>Fri, 19 Apr 2013 15:35:15 +0000</pubDate>
+		<dc:creator>Korben</dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[service web]]></category>
+
+		<guid isPermaLink="false">http://korben.info/?p=39446</guid>
+		<description><![CDATA[Je n'utilise quasiment jamais Facebook (sauf pour tester des failles ou des nouveautés), mais ça, je me suis dit que ça intéresserait les linuxiens accros aux chat Facebook. Il s'agit d'une application non officielle baptisée FBMessenger qui fait office de client de messagerie 100% Facebook. Vous pourrez discuter avec vos amis dans une fenêtre avec [...]]]></description>
+				<content:encoded><![CDATA[<p>Je n'utilise quasiment jamais Facebook (sauf pour tester des failles ou des nouveautés), mais ça, je me suis dit que ça intéresserait les linuxiens accros aux chat Facebook.</p>
+<p>Il s'agit d'une application non officielle baptisée FBMessenger qui fait office de client de messagerie 100% Facebook. Vous pourrez discuter avec vos amis dans une fenêtre avec onglets séparés, recevoir les notifications et les demandes d'amis, ainsi que les mises à jour des statuts de vos amis.</p>
+<p>L'application balance même des notifs sous forme de popup, histoire de bien être dérangée par ses connards de potes quand on bosse ^^</p>
+<p style="text-align: center;"><a href="http://korben.info/wp-content/uploads/2013/04/fbmessenger2.png"><img class="aligncenter size-full wp-image-39452" alt="fbmessenger2 Un client Linux pour le chat Facebook" src="http://korben.info/wp-content/uploads/2013/04/fbmessenger2.png" width="300" height="457" title="Un client Linux pour le chat Facebook" /></a></p>
+<p>Il s'agit d'une première version encore un peu jeune, mais plutôt propre et sous licence GPL. Vous pouvez récupérer les sources sur <a href="https://github.com/oconnor663/linuxmessenger">GitHub</a> ici, installer le binaire pour Arch Linux ou pour Ubuntu, ajouter les dépôts pour Ubuntu &gt;= 12.04</p>
+<ul>
+<li>sudo add-apt-repository ppa:nilarimogard/webupd8</li>
+<li>sudo apt-get update</li>
+<li>sudo apt-get install fbmessenger</li>
+</ul>
+<p>A noter que le chat Facebook utilise le protocole <a href="http://free.korben.info/index.php/XMPP_%C3%A0_tout_faire">XMPP</a> qui vous permet de configurer votre client de messagerie préféré XMPP pour l'utiliser...</p>
+<p><a href="http://www.webupd8.org/2013/04/fbmessenger-stand-alone-facebook.html">Source</a></p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=HS_Nn99pL7Y:KX51AB56Dio:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=HS_Nn99pL7Y:KX51AB56Dio:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=HS_Nn99pL7Y:KX51AB56Dio:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=HS_Nn99pL7Y:KX51AB56Dio:GG6oivYVkFs"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=HS_Nn99pL7Y:KX51AB56Dio:GG6oivYVkFs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=HS_Nn99pL7Y:KX51AB56Dio:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=HS_Nn99pL7Y:KX51AB56Dio:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=HS_Nn99pL7Y:KX51AB56Dio:gIN9vFwOqvQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=HS_Nn99pL7Y:KX51AB56Dio:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=7Q72WNTAKBA" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/KorbensBlog-UpgradeYourMind/~4/HS_Nn99pL7Y" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://korben.info/chat-facebook-client-linux.html/feed</wfw:commentRss>
+		<slash:comments>15</slash:comments>
+		<feedburner:origLink>http://korben.info/chat-facebook-client-linux.html</feedburner:origLink></item>
+		<item>
+		<title>L’entretien secret de Julian Assange et Eric Schmidt</title>
+		<link>http://feedproxy.google.com/~r/KorbensBlog-UpgradeYourMind/~3/ozfhG6HXWVw/lentretien-secret-de-julian-assange-et-eric-schmidt.html</link>
+		<comments>http://korben.info/lentretien-secret-de-julian-assange-et-eric-schmidt.html#comments</comments>
+		<pubDate>Fri, 19 Apr 2013 15:15:49 +0000</pubDate>
+		<dc:creator>Korben</dc:creator>
+				<category><![CDATA[Culture Internet]]></category>
+		<category><![CDATA[Société]]></category>
+
+		<guid isPermaLink="false">http://korben.info/?p=39443</guid>
+		<description><![CDATA[Le 23 juin 2011, alors que Julian Assange était consigné dans une maison dans la campagne anglaise, Eric Schmidt, alors CEO de Google l'a rejoint en secret pour s'entretenir avec lui. C'est donc 2 ans plus tard que "sort" cette retranscription de leurs échanges, sur Wikileaks bien sûr. Étaient aussi présents lors de l'entretien, Jared [...]]]></description>
+				<content:encoded><![CDATA[<p>Le 23 juin 2011, alors que Julian Assange était consigné dans une maison dans la campagne anglaise, Eric Schmidt, alors CEO de Google l'a rejoint en secret pour s'entretenir avec lui.</p>
+<p>C'est donc 2 ans plus tard que "sort" cette retranscription de leurs échanges, sur Wikileaks bien sûr. Étaient aussi présents lors de l'entretien, <a href="http://english.al-akhbar.com/node/5222">Jared Cohen</a> (JC), un conseiller à la secrétaire d’État Hillary Clinton et Lisa Shields (LS) du <a href="http://fr.wikipedia.org/wiki/Council_on_Foreign_Relations">Council on Foreign Relations</a> (think tank américain )</p>
+<p>Dans ces échanges passionnants qui ont duré pas moins de 5 heures, Julian Assange explique ce qui l'a motivé à créer Wikileaks. La liberté de l'information bien sûr, mais aussi pour inventer un autre moyen de distribuer l'information. Plutôt que de la faire passer par plusieurs canaux (officiels, journalistiques...etc.) avant que celle-ci atteigne monsieur et madame tout le monde, Julian Assange avait pour ambition de la distribuer directement au peuple. Une espèce de système d'information global qui collecte, trie et diffuse l'information sans qu'un gouvernement ou une entité de contrôle puisse y mettre le nez.</p>
+<p>Les 2 hommes ont aussi parlé des révolutions arabes, du Patriot Act, et de Bitcoin. Julian Assange y croit dur comme fer (et il n'est pas le seul). Pour lui les monnaies virtuelles comme les bitcoins sont les seules qui peuvent échapper à la censure économique et garantir l'indépendance économique des citoyens par rapport aux banques et au système financier.</p>
+<p>Au tout début, ça commence fort :</p>
+<blockquote><p>Eric Schmidt : Nous pouvons commencer... J'aimerai parler un peu de Thor.</p>
+<p>Julian Assange : De Tor ou Thor?</p>
+<p>ES : Oui, bien sûr, je voulais dire Tor, Ahaha...</p>
+<p>JA : Et Odin aussi.</p></blockquote>
+<p>Un autre passage amusant :</p>
+<blockquote><p>ES : Tu es ici depuis 6 mois ? (En parlant de son assignation à domicile)</p>
+<p>JA : 8 mois.</p>
+<div id="SC">
+<p><a title="" href="http://wikileaks.org/Transcript-Meeting-Assange-Schmidt#1490" name="1490"></a><a title="" href="http://wikileaks.org/Transcript-Meeting-Assange-Schmidt#1490" name="1490"></a>SC : 8 mois. Donc c'est ta maison ici.</p>
+</div>
+<div id="JC">
+<p><a title="" href="http://wikileaks.org/Transcript-Meeting-Assange-Schmidt#1493" name="1493"></a><a title="" href="http://wikileaks.org/Transcript-Meeting-Assange-Schmidt#1493" name="1493"></a>JC : Oui, c'est un endroit charmant.</p>
+</div>
+<div id="JA">
+<p><a title="" href="http://wikileaks.org/Transcript-Meeting-Assange-Schmidt#1496" name="1496"></a><a title="" href="http://wikileaks.org/Transcript-Meeting-Assange-Schmidt#1496" name="1496"></a>JA : Ce matin ça allait, parce que je dois aller au commissariat de police tous les jours et malheureusement, j'ai des fans cinglés qui m'attendent là bas.</p>
+</div>
+<div id="JC">
+<p><a title="" href="http://wikileaks.org/Transcript-Meeting-Assange-Schmidt#1499" name="1499"></a><a title="" href="http://wikileaks.org/Transcript-Meeting-Assange-Schmidt#1499" name="1499"></a>JC : Vraiment ? Et que font-ils ?</p>
+</div>
+<div id="JA">
+<p><a title="" href="http://wikileaks.org/Transcript-Meeting-Assange-Schmidt#1502" name="1502"></a><a title="" href="http://wikileaks.org/Transcript-Meeting-Assange-Schmidt#1502" name="1502"></a>JA : Il y avait une fille française qui est venue en voiture depuis la France.</p>
+</div>
+<div id="LS">
+<p><a title="" href="http://wikileaks.org/Transcript-Meeting-Assange-Schmidt#1505" name="1505"></a><a title="" href="http://wikileaks.org/Transcript-Meeting-Assange-Schmidt#1505" name="1505"></a>LS : Vraiment ?</p>
+</div>
+<div id="JA">
+<p><a title="" href="http://wikileaks.org/Transcript-Meeting-Assange-Schmidt#1508" name="1508"></a><a title="" href="http://wikileaks.org/Transcript-Meeting-Assange-Schmidt#1508" name="1508"></a>JA : J'ai vu des filles qui sont venues en voiture de France, d'Espagne (Catalogne), de Norvège. Celle-là n'a pas conduit depuis la Norvège. Elle a pris un vol depuis la Norvège. Amsterdam aussi et un type venu des États-Unis, qui a vendu son bateau pour venir ici. Capitaine Morgan.</p>
+</div>
+<div id="ES">
+<p><a title="" href="http://wikileaks.org/Transcript-Meeting-Assange-Schmidt#1511" name="1511"></a><a title="" href="http://wikileaks.org/Transcript-Meeting-Assange-Schmidt#1511" name="1511"></a>ES : Et le commissariat est loin ?</p>
+</div>
+<div id="JA">
+<p>JA : Environ 15 à 20 minutes.</p>
+</div>
+<div id="JA">
+<p><a title="" href="http://wikileaks.org/Transcript-Meeting-Assange-Schmidt#1517" name="1517"></a><a title="" href="http://wikileaks.org/Transcript-Meeting-Assange-Schmidt#1517" name="1517"></a>JA : La femme d'Espagne (Catalogne) était la plus marrante. Elle s'est rendue au <a href="http://en.wikipedia.org/wiki/Frontline_Club">Frontline Club</a> (club réservé aux gens des médias) en essayant de les convaincre qu'elle faisait partie de l'équipe Wikileaks, et qu'elle était une développeuse star de Wikileaks Espagne.</p>
+</div>
+<div id="ES">
+<p><a title="" href="http://wikileaks.org/Transcript-Meeting-Assange-Schmidt#1520" name="1520"></a><a title="" href="http://wikileaks.org/Transcript-Meeting-Assange-Schmidt#1520" name="1520"></a>ES : Ha ha ha ha ha ha!</p>
+</div>
+<div id="JA">
+<p><a title="" href="http://wikileaks.org/Transcript-Meeting-Assange-Schmidt#1523" name="1523"></a><a title="" href="http://wikileaks.org/Transcript-Meeting-Assange-Schmidt#1523" name="1523"></a>JA : Et elle ne connaissait absolument rien en développement. Elle a juste blablaté quelques trucs technos et eux l'ont cru. Après ça, ils lui ont fait comprendre qu'elle ne pouvait pas me voir, car j'étais assigné à domicile, mais ils l'ont hébergé gratuitement pour une nuit. Elle avait l'habitude d'écouter des bribes de conversation et de les réintégrer à sa propre histoire. Ainsi, le jour d'après : "Oh je connais cette personne, oh, regarde...etc etc..."</p>
+</div>
+<div id="ES">
+<p><a title="" href="http://wikileaks.org/Transcript-Meeting-Assange-Schmidt#1526" name="1526"></a><a title="" href="http://wikileaks.org/Transcript-Meeting-Assange-Schmidt#1526" name="1526"></a>ES : Ha ha ha ha</p>
+</div>
+<div id="JA"><a title="" href="http://wikileaks.org/Transcript-Meeting-Assange-Schmidt#1529" name="1529"></a>JA : Mais 2 jours plus tard, tout ceci a été découvert, et elle a été mise dehors. Mais ensuite, 2 semaines plus tard, le téléphone a sonné... euh non, désolé, 2 semaines plus tard, j'étais ici et la police est venu frapper à la porte pour me demander si je connaissais XXXX XXXX ....? qui, ai-je demandé ? Votre fiancée !</div>
+</blockquote>
+<p>Les gens sont fous !</p>
+<p>Pour lire la retranscription complète de cette conversation passionnante, c'est sur <a href="http://wikileaks.org/Transcript-Meeting-Assange-Schmidt">Wikileaks que ça se passe</a>.</p>
+<p>Désolé, c'est en anglais et je n'ai pas assez de temps pour traduire tout ça... Trop long.</p>
+<p>Bonne lecture !</p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=ozfhG6HXWVw:1L1wQirMceA:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=ozfhG6HXWVw:1L1wQirMceA:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=ozfhG6HXWVw:1L1wQirMceA:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=ozfhG6HXWVw:1L1wQirMceA:GG6oivYVkFs"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=ozfhG6HXWVw:1L1wQirMceA:GG6oivYVkFs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=ozfhG6HXWVw:1L1wQirMceA:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=ozfhG6HXWVw:1L1wQirMceA:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=ozfhG6HXWVw:1L1wQirMceA:gIN9vFwOqvQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=ozfhG6HXWVw:1L1wQirMceA:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=7Q72WNTAKBA" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/KorbensBlog-UpgradeYourMind/~4/ozfhG6HXWVw" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://korben.info/lentretien-secret-de-julian-assange-et-eric-schmidt.html/feed</wfw:commentRss>
+		<slash:comments>10</slash:comments>
+		<feedburner:origLink>http://korben.info/lentretien-secret-de-julian-assange-et-eric-schmidt.html</feedburner:origLink></item>
+		<item>
+		<title>La police japonaise souhaite interdire TOR</title>
+		<link>http://feedproxy.google.com/~r/KorbensBlog-UpgradeYourMind/~3/hoNDdSxcxqE/la-police-japonaise-souhaite-interdire-tor.html</link>
+		<comments>http://korben.info/la-police-japonaise-souhaite-interdire-tor.html#comments</comments>
+		<pubDate>Fri, 19 Apr 2013 14:05:45 +0000</pubDate>
+		<dc:creator>Korben</dc:creator>
+				<category><![CDATA[Sécurité]]></category>
+		<category><![CDATA[Société]]></category>
+
+		<guid isPermaLink="false">http://korben.info/?p=39440</guid>
+		<description><![CDATA[Histoire de combattre le crime (et accessoirement la liberté d'expression et l'accès libre au net), la Police Nationale Japonaise demande aux fournisseurs d'accès Internet japonais de bloquer de manière volontaire le protocole TOR sur leur réseau. La réflexion de la police japonaise est digne de celle d'un enfant gâté qui pense régler le problème de [...]]]></description>
+				<content:encoded><![CDATA[<p>Histoire de combattre le crime (et accessoirement la liberté d'expression et l'accès libre au net), la Police Nationale Japonaise demande aux fournisseurs d'accès Internet japonais <a href="http://mainichi.jp/english/english/newsselect/news/20130418p2a00m0na013000c.html">de bloquer de manière volontaire le protocole TOR</a> sur leur réseau.</p>
+<p>La réflexion de la police japonaise est digne de celle d'un enfant gâté qui pense régler le problème de la criminalité et des abus qui sont faits avec certains outils en interdisant tout simplement l'anonymat sur le net via TOR.</p>
+<p>Tant qu'à faire, puisque les criminels se cachent dans des maisons, interdisons les maisons. Même chose avec les voitures qui leur permettent de s'enfuir. Ah et puisque les criminels exercent cette profession pour l'argent, interdisons aussi l'argent.</p>
+<p>C'est si simple de régler des problèmes complexes avec des raisonnements débiles. Bravo la police japonaise !</p>
+<p>Tout ce que j'espère, bien évidemment, c'est que les FAI ne suivront pas le mouvement.</p>
+<p><a href="http://www.techdirt.com/articles/20130418/17210122754/police-japan-want-isps-to-block-tor.shtml">Source</a></p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=hoNDdSxcxqE:Cp9ZPxe7obc:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=hoNDdSxcxqE:Cp9ZPxe7obc:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=hoNDdSxcxqE:Cp9ZPxe7obc:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=hoNDdSxcxqE:Cp9ZPxe7obc:GG6oivYVkFs"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=hoNDdSxcxqE:Cp9ZPxe7obc:GG6oivYVkFs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=hoNDdSxcxqE:Cp9ZPxe7obc:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=hoNDdSxcxqE:Cp9ZPxe7obc:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=hoNDdSxcxqE:Cp9ZPxe7obc:gIN9vFwOqvQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=hoNDdSxcxqE:Cp9ZPxe7obc:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=7Q72WNTAKBA" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/KorbensBlog-UpgradeYourMind/~4/hoNDdSxcxqE" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://korben.info/la-police-japonaise-souhaite-interdire-tor.html/feed</wfw:commentRss>
+		<slash:comments>30</slash:comments>
+		<feedburner:origLink>http://korben.info/la-police-japonaise-souhaite-interdire-tor.html</feedburner:origLink></item>
+		<item>
+		<title>Raspberry Pi – Comment ajouter un bouton RESET</title>
+		<link>http://feedproxy.google.com/~r/KorbensBlog-UpgradeYourMind/~3/yPYrtkahqvQ/bouton-reset-raspberry-pi.html</link>
+		<comments>http://korben.info/bouton-reset-raspberry-pi.html#comments</comments>
+		<pubDate>Fri, 19 Apr 2013 13:30:20 +0000</pubDate>
+		<dc:creator>Korben</dc:creator>
+				<category><![CDATA[DIY]]></category>
+		<category><![CDATA[Hardware]]></category>
+
+		<guid isPermaLink="false">http://korben.info/?p=39422</guid>
+		<description><![CDATA[Amis bidouilleurs, on continue cette magnifique après midi avec un petit tuto vidéo pour le Raspberry qui vous expliquera comment et où connecter un bon vieux bouton RESET sur la carte de ce mini PC. Cette astuce est plutôt pratique, car ça permet de relancer son Raspberry ou de le démarrer en cas d'extinction (shutdown) [...]]]></description>
+				<content:encoded><![CDATA[<p>Amis bidouilleurs, on continue cette magnifique après midi avec un petit tuto vidéo pour le Raspberry qui vous expliquera comment et où connecter un bon vieux bouton RESET sur la carte de ce mini PC.</p>
+<p>Cette astuce est plutôt pratique, car ça permet de relancer son Raspberry ou de le démarrer en cas d'extinction (shutdown) sans devoir aller farfouiller les câbles pour déconnecter le micro USB.</p>
+<p>Tip top si vous avez embarqué votre Raspberry dans un endroit pas très facile d'accès. Pour cette recette, il vous faudra bien évidemment un fer à souder et des doigts de fée.</p>
+<p style="text-align: center;"><iframe src="http://www.youtube.com/embed/rNhXqjSO-0s?feature=player_embedded" height="360" width="640" allowfullscreen="" frameborder="0"></iframe></p>
+<p><a href="http://www.raspberrypilabs.com/add-a-reset-button-to-a-raspberry-pi/">Source</a></p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=yPYrtkahqvQ:-5k1gPrwigo:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=yPYrtkahqvQ:-5k1gPrwigo:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=yPYrtkahqvQ:-5k1gPrwigo:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=yPYrtkahqvQ:-5k1gPrwigo:GG6oivYVkFs"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=yPYrtkahqvQ:-5k1gPrwigo:GG6oivYVkFs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=yPYrtkahqvQ:-5k1gPrwigo:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=yPYrtkahqvQ:-5k1gPrwigo:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?i=yPYrtkahqvQ:-5k1gPrwigo:gIN9vFwOqvQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?a=yPYrtkahqvQ:-5k1gPrwigo:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/KorbensBlog-UpgradeYourMind?d=7Q72WNTAKBA" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/KorbensBlog-UpgradeYourMind/~4/yPYrtkahqvQ" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://korben.info/bouton-reset-raspberry-pi.html/feed</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		<feedburner:origLink>http://korben.info/bouton-reset-raspberry-pi.html</feedburner:origLink></item>
+	</channel>
+</rss>
