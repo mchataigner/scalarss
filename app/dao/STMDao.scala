@@ -5,6 +5,10 @@ import scala.concurrent.{Await, Future}
 import scala.concurrent.duration._
 import scalarss.domain._
 import scalarss.service.Crawler
+import akka.actor.{ActorRef, Actor}
+import play.libs.Akka
+import play.api.libs.concurrent.Execution.Implicits._
+import play.api.Application
 
 object STMDao extends Dao{
   val channels = Ref[Map[Channel, List[Item]]](Map.empty)
@@ -12,7 +16,7 @@ object STMDao extends Dao{
   def addChannel(channel: Channel): Future[Unit] = {
     atomic { implicit txn =>
       channels() = channels() + (channel -> List.empty)
-      updateItems
+      //updateItems
     }
     Future.successful()
   }
@@ -53,4 +57,19 @@ object STMDao extends Dao{
     Future.successful()
   }
 
+}
+
+class UpdaterActor extends Actor{
+  val dao = STMDao
+  def receive = {
+    case (n: String) if n == "update" => {
+      dao.updateItems
+    }
+  }
+}
+
+object UpdaterActor {
+  def start(time: Long, beater: ActorRef)(implicit app: Application) = {
+    Akka.system.scheduler.schedule(0 milliseconds, time seconds,beater,"update")
+  }
 }
